@@ -1,0 +1,1800 @@
+VERTICES
+1 "Copper Harbor" Town
+2 "US-41/Route 23" Junction
+3 "US-41/Route 23" Junction
+4 "Calumet" Town
+5 "Ripley" Town
+6 "Business 75/Route 129" Junction
+7 "Sault Ste Marie" Town
+8 "Exit 394" Exit
+9 "Exit 386" Exit
+10 "Houghton/Hancock" Town
+11 "Baraga" Town
+12 "Eckerman" Town
+13 "Ontanagon" Town
+14 "Greenland" Town
+15 "Lake Mine" Town
+16 "Exit 373" Exit
+17 "Route 48/Route 129" Junction
+18 "US-45/Route 26" Junction
+19 "Overpass" Town
+20 "Newberry" Town
+21 "Route 28/Route 117" Junction
+22 "Grand Marais" Town
+23 "Seney" Town
+24 "Marquette" Town
+25 "US-41/Route 35" Junction
+26 "Route 28/Route 77" Junction
+27 "Pickford" Town
+28 "US-41/Route 28" Junction
+29 "Negaunee" Town
+30 "Munising" Town
+31 "US 41/Route 28" Junction
+32 "Shingleton" Town
+33 "Ishpeming" Town
+34 "Champion" Town
+35 "Covington" Town
+36 "Exit 359" Exit
+37 "Route 48/Route 134" Junction
+38 "Bergland" Town
+39 "Cedarville" Town
+40 "Chatham" Town
+41 "US 41/Route 94" Junction
+42 "Merriweather" Town
+43 "Bruce Crossing" Town
+44 "Engadine" Town
+45 "Exit 352" Exit
+46 "Little Lake" Town
+47 "US-2/Route 77" Junction
+48 "Trenary" Town
+49 "Wakefield" Town
+50 "Ironwood" Town
+51 "MI/WI Border" Junction
+52 "Exit 344" Exit
+53 "St. Ignace" Town
+54 "MI/WI Border" Junction
+55 "US-2/Route 64" Junction
+56 "US-2/Route 64" Junction
+57 "Exit 338" Exit
+58 "Mackinac City" Town
+59 "Manistique" Town
+60 "Watersmeet" Town
+61 "Exit 336" Exit
+62 "MI/WI Border" Junction
+63 "Sagola" Town
+64 "Beechwood" Town
+65 "Cheboygan State park" Park
+66 "Cheboygan" Town
+67 "US-2/US-141" Junction
+68 "Crystal Falls" Town
+69 "Garden Corners" Junction
+70 "MI/WI Border" Junction
+71 "Rapid River" Town
+72 "US-2/Route 73" Junction
+73 "Iron River" Town
+74 "Route 27/Route 33" Junction
+75 "Gladstone" Junction
+76 "MI/WI Border" Junction
+77 "MI/WI Border" Junction
+78 "MI/WI Border" Junction
+79 "Rogers City" Town
+80 "US-23/Route 65" Junction
+81 "US-2/Route 95" Junction
+82 "MI/WI Border" Junction
+83 "Exit 313" Exit
+84 "Alanson" Town
+85 "Escanaba" Town
+86 "Iron Mountain" Town
+87 "Onaway" Town
+88 "US-2/US-141" Junction
+89 "Route 33/Route 68" Junction
+90 "Norway" Junction
+91 "Exit 310" Exit
+92 "MI/WI Border" Junction
+93 "Kingford" Town
+94 "Fairport" Town
+95 "MI/WI Border" Junction
+96 "US-2/US-41" Junction
+97 "Alpena" Town
+98 "Charlevoix" Town
+99 "Petoskey" Town
+100 "Lacine" Town
+101 "Route 32/Route 65" Junction
+102 "East Jordan" Town
+103 "Atlanta" Town
+104 "Route 32/Route 33" Junction
+105 "US 131/Route" Junction
+106 "US 131/Route 32" Junction
+107 "Exit 282" Exit
+108 "Eastport" Town
+109 "Fox Island Ferry" Town
+110 "Leland" Town
+111 "US 131/Route 66" Junction
+112 "Harrisville" Town
+113 "Curran" Town
+114 "Mancelona" Town
+115 "Fairview" Town
+116 "Route 65/Route 72" Junction
+117 "Route 72/Route 65" Junction
+118 "Exit 264" Exit
+119 "Hartwick Pines" Park
+120 "Au Gres" Town
+121 "Milo" Town
+122 "Route 22/Route 109" Junction
+123 "Exit 259" Exit
+124 "Kalkaksa" Town
+125 "Acme" Town
+126 "US 131/Route 72" Junction
+127 "Route 90/Route 72" Junction
+128 "Route 22/Route 109" Junction
+129 "Overpass" Town
+130 "Grayling" Town
+131 "Route 22/Route 72" Junction
+132 "Route 72/Route 93" Junction
+133 "Route 72/Route 18" Junction
+134 "US 131/Route 72" Junction
+135 "Route 72/Route 66" Junction
+136 "Exit 254" Exit
+137 "Traverse City" Town
+138 "Empire" Town
+139 "Lake Margrethe" Town
+140 "Exit 251" Exit
+141 "Military/Beaver Creek" Junction
+142 "I-75/US-27" Junction
+143 "Route 31/Route 37" Junction
+144 "Exit 244" Exit
+145 "Roscommon" Town
+146 "Beaver Creek Exit" Exit
+147 "Exit 239" Exit
+148 "Hannah" Town
+149 "Tawas City" Town
+150 "Frankfort" Town
+151 "Elberta" Town
+152 "Walton" Town
+153 "Benzonia" Town
+154 "US 31/Route 115" Junction
+155 "Route 55/Route 65" Junction
+156 "Route 55/Route 33" Junction
+157 "Exit 222" Exit
+158 "West Branch" Town
+159 "Route 30/Route 55" Junction
+160 "Exit 215" Exit
+161 "I-75 Business/Alger Rd" Junction
+162 "Maple Valley" Town
+163 "Overpass" Junction
+164 "Route 55 Exit" Exit
+165 "Manton" Town
+166 "Exit 212" Exit
+167 "Route 55/Route 18" Junction
+168 "US-131/Route 42" Junction
+169 "Prudenville" Town
+170 "Route 66/Route 42" Junction
+171 "Route 42/Route 37" Junction
+172 "Lake City" Town
+173 "Mesick" Town
+174 "Route 37/Route 115" Junction
+175 "Alger" Town
+176 "Exit 202" Exit
+177 "Route 55/Route 66" Junction
+178 "US-23/Route 65" Junction
+179 "Cadillac" Town
+180 "Port Austin" Town
+181 "Harbor Beach" Town
+182 "US-131/Route 55" Junction
+183 "Route 55/Route 115" Junction
+184 "Exit 176" Exit
+185 "Standish" Town
+186 "US 31/Route 22" Junction
+187 "Exit 190" Exit
+188 "Route 55/Route 37" Junction
+189 "Route 53/Route 142" Junction
+190 "Harrison Exit" Exit
+191 "US-23/Route 13" Junction
+192 "Manistee" Town
+193 "Exit 188" Exit
+194 "Route 19/Route 142" Junction
+195 "Bad Axe" Town
+196 "Marion" Town
+197 "Route 61/Route 30" Junction
+198 "Gladwin" Town
+199 "Bay Port" Town
+200 "Route 18/Route 61" Junction
+201 "Harrison" Town
+202 "Temple" Town
+203 "Route 66/Route 61" Junction
+204 "Route 61/Route 115" Junction
+205 "Route 61 Exit" Exit
+206 "Route 66/Route 115" Junction
+207 "US-27/US-10" Junction
+208 "Route 66/US-10" Junction
+209 "Route 53/Route 81" Junction
+210 "US-10/Route 115" Junction
+211 "North Clare Exit" Exit
+212 "Unionville" Town
+213 "US-27/US-10" Junction
+214 "US-27/US 10" Junction
+215 "Loomis" Town
+216 "Clare" Town
+217 "US-10/Route 37" Junction
+218 "South Clare Exit" Exit
+219 "Exit 153" Exit
+220 "North Bradley" Town
+221 "Scottville" Town
+222 "Baldwin" Town
+223 "Port Sanilac" Town
+224 "Kawkawlin" Town
+225 "US-10/US 31" Junction
+226 "US-10/Route 30" Junction
+227 "Ludington" Town
+228 "Exit 164" Exit
+229 "US 10/Eastman Ave" Junction
+230 "Route 25/Route 15" Junction
+231 "Bay City" Town
+232 "West Bay City" Town
+233 "Exit 162" Exit
+234 "Sandusky" Town
+235 "Route 84/Route 13" Junction
+236 "Exit 160" Exit
+237 "US-10/Route 20" Junction
+238 "Caro" Town
+239 "Elmer" Town
+240 "Midland" Town
+241 "US 10/Route 47" Junction
+242 "Exit 160" Exit
+243 "Route 46/Route 53" Junction
+244 "Route 15/Route 138" Junction
+245 "Exit 142" Exit
+246 "Freeland" Town
+247 "North Mount Pleasant Exit" Exit
+248 "Exit 155" Exit
+249 "Overpass" Town
+250 "Route 24/Route 46" Junction
+251 "Mount Pleasant" Town
+252 "Charles Mears Exit" Exit
+253 "Big Rapids" Town
+254 "Hart Exit" Exit
+255 "Lexington" Town
+256 "Exit 153" Exit
+257 "Route 20/Business 27" Junction
+258 "Route 15/Route 81" Junction
+259 "Business 131/Route 20" Junction
+260 "Exit 139" Exit
+261 "Arthur" Town
+262 "Exit 151" Exit
+263 "Mount Plesant South Exit" Exit
+264 "Washington/Veterans" Junction
+265 "Richville" Town
+266 "Exit 150" Exit
+267 "Hart" Town
+268 "Route 46/Route 83" Junction
+269 "Exit 2" Exit
+270 "Hart Exit" Exit
+271 "Exit 3" Exit
+272 "Peck" Town
+273 "Bay Rd/Davenport" Junction
+274 "Remus" Town
+275 "Route 58/Route 47" Junction
+276 "Exit 149" Exit
+277 "Saginaw" Town
+278 "Route 46/Route 47" Junction
+279 "Route 46/Route 52" Junction
+280 "Route 19/Route 90" Junction
+281 "Route 53/Route 90" Junction
+282 "Route 20/Route 37" Junction
+283 "Brown City" Town
+284 "Route 90/Route 24" Junction
+285 "St Louis" Town
+286 "White Cloud" Town
+287 "North Alma Exit" Exit
+288 "US 27/Route 46" Junction
+289 "Alma" Town
+290 "South Alma Exit" Exit
+291 "Hesperia" Town
+292 "Route 83/Route 54" Junction
+293 "Exit 136" Exit
+294 "Six Lakes" Town
+295 "Route 46/Route 66" Junction
+296 "New Era" Town
+297 "Lakeview" Town
+298 "Otisville" Town
+299 "New Era Exit" Exit
+300 "Canadian Border" Junction
+301 "North Ithaca Exit" Exit
+302 "Howard City" Town
+303 "Exit 120" Exit
+304 "Pine Run" Town
+305 "Exit 131" Exit
+306 "South Ithaca Exit" Exit
+307 "Mt Morris" Town
+308 "I-94/I-69" Junction
+309 "Port Huron" Town
+310 "I-69/I-94" Junction
+311 "Exit 194" Exit
+312 "Route 120/Route 82" Junction
+313 "Exit 118" Exit
+314 "Route 57/Route 13" Junction
+315 "Emmett" Town
+316 "Newaygo" Town
+317 "Rothbury" Town
+318 "Imlay City" Town
+319 "US-27" Junction
+320 "Route 52/Route 57" Junction
+321 "Route 82/Route 37" Junction
+322 "Exit 184" Exit
+323 "Marysville" Town
+324 "Lapeer" Town
+325 "Exit 13" Exit
+326 "Exit 155" Exit
+327 "Exit 168" Exit
+328 "Exit 262" Exit
+329 "Exit 129" Exit
+330 "Exit 9" Exit
+331 "US-27/Route 57" Junction
+332 "Exit 145" Exit
+333 "Exit 138" Exit
+334 "I-69/I-475" Junction
+335 "Exit 136" Exit
+336 "Exit 118" Exit
+337 "Bristol Rd/Dort Hwy" Junction
+338 "Route 57/Route 66 Junction" Junction
+339 "I-75/I-69" Junction
+340 "Exit 4" Exit
+341 "Exit 116" Exit
+342 "Route 21/Route 52" Junction
+343 "Exit 116" Exit
+344 "Exit 104" Exit
+345 "Greenville" Town
+346 "Route 57/Route 91" Junction
+347 "US 31/Route 120" Junction
+348 "I-75/US-23" Junction
+349 "Muttonville" Town
+350 "Route 37/Route 46" Junction
+351 "Exit 123" Exit
+352 "Kent City" Town
+353 "Exit 111" Exit
+354 "Corunna" Town
+355 "Owosso" Town
+356 "Route 57" Junction
+357 "Exit 101" Exit
+358 "North Muskegon" Town
+359 "US 31/Business 31" Junction
+360 "Exit 109" Exit
+361 "US 31/Route 46" Junction
+362 "Muskegon" Town
+363 "Exit 118" Exit
+364 "Route 66/Route 44 Junction" Junction
+365 "St Johns Exit" Exit
+366 "Crooked Corners" Town
+367 "New Haven" Town
+368 "Exit 247" Exit
+369 "Belmont" Town
+370 "Romeo" Town
+371 "Exit 1" Exit
+372 "Exit 243" Exit
+373 "Chesterfield" Town
+374 "Exit 79" Exit
+375 "Fenton" Town
+376 "Ionia" Town
+377 "Exit 91" Exit
+378 "Exit 93" Exit
+379 "Exit 105" Exit
+380 "Exit 81" Exit
+381 "Exit 84" Exit
+382 "Exit 239" Exit
+383 "Gratiot/Metropolitan" Junction
+384 "Waterford" Town
+385 "Exit 9" Exit
+386 "Exit 78" Exit
+387 "I-96/US-131" Junction
+388 "Exit 30" Exit
+389 "Exit 31" Exit
+390 "Grand Haven" Town
+391 "Exit 89" Exit
+392 "Utica" Town
+393 "Exit 24" Exit
+394 "US-24/Route 1" Junction
+395 "I-96/I-196" Junction
+396 "Exit 77" Exit
+397 "Exit 37" Exit
+398 "Pontiac" Town
+399 "Exit 39" Exit
+400 "Exit 87" Exit
+401 "I-196/US 131" Junction
+402 "US-24/Route 59" Junction
+403 "Exit 89" Exit
+404 "Sterling Heights" Town
+405 "Exit 94" Exit
+406 "Exit 67" Exit
+407 "Exit 77" Exit
+408 "Exit 75" Exit
+409 "Route 45/Route 11" Junction
+410 "Haslett" Town
+411 "Woodward/Bus 24" Junction
+412 "Telegraph/Huron" Junction
+413 "Exit 43" Exit
+414 "I-96/I-69" Junction
+415 "I-96/I-69" Junction
+416 "Route 11/Route 37" Junction
+417 "Exit 86" Exit
+418 "I-69/I-96" Junction
+419 "Exit 90" Exit
+420 "Exit 52" Exit
+421 "I-96/I-69" Junction
+422 "Agnew" Town
+423 "Cedar/Grand River" Junction
+424 "Exit 70" Exit
+425 "East Lansing" Town
+426 "Exit 67" Exit
+427 "Saginaw/Cedar" Junction
+428 "Exit 69" Exit
+429 "Lansing" Town
+430 "I-496/US 127" Junction
+431 "Exit 7" Exit
+432 "Exit 6" Exit
+433 "Exit 93" Exit
+434 "I-94/I-696" Junction
+435 "Exit 27" Exit
+436 "Grand Ledge" Town
+437 "Exit 122" Exit
+438 "Exit 95" Exit
+439 "Exit 23" Exit
+440 "Exit 133" Exit
+441 "I-75/I-696" Junction
+442 "Exit 225" Exit
+443 "Route 43/Route 50" Junction
+444 "I-96/US 127" Junction
+445 "Woodbury" Town
+446 "Exit 16" Exit
+447 "8 Mile/Gratiot" Junction
+448 "I-96/I-69" Junction
+449 "Exit 9" Exit
+450 "Exti 10" Town
+451 "8 Mile/Van Dyke" Junction
+452 "Exit 104" Exit
+453 "Exit 98" Exit
+454 "Exit 101" Exit
+455 "Exit 59" Exit
+456 "Detroit" Town
+457 "Route 43/Route 66" Junction
+458 "Lodge/Southfield" Junction
+459 "I-96/I-275/I-696" Junction
+460 "8 Mile/Lodge" Junction
+461 "Exit 15" Exit
+462 "Exit 148/Exit 60" Exit
+463 "Exit 70" Exit
+464 "8 Mile/Telegraph" Junction
+465 "8 Mile/Grand River" Junction
+466 "Exit 55" Exit
+467 "Exit 219" Exit
+468 "Zeeland" Town
+469 "Grand River/Telegraph" Junction
+470 "Exit 218" Exit
+471 "Mason" Town
+472 "Route 52/Route 36" Junction
+473 "Exit 12" Exit
+474 "US 31/Business 196" Junction
+475 "Exit 216" Exit
+476 "Exit 185" Exit
+477 "Overpass" Town
+478 "Exit 179" Exit
+479 "Exit 215" Exit
+480 "Business 196/Route 40" Junction
+481 "Exit 183/Exit 10" Exit
+482 "Exit 51" Exit
+483 "Overpass" Town
+484 "I-96/I-275" Junction
+485 "Milville" Town
+486 "Exit 54" Exit
+487 "Exit 50" Exit
+488 "Exit 214" Exit
+489 "Holland" Town
+490 "Jefferson/Woodward" Junction
+491 "Exit 48/Exit 191" Exit
+492 "Hastings" Town
+493 "US 31/Business 196" Junction
+494 "Exit 49" Exit
+495 "Exit 61A" Exit
+496 "Route 37/Route 43" Junction
+497 "Exit 61B" Exit
+498 "Exit 210" Exit
+499 "Gregory" Town
+500 "Exit 7" Exit
+501 "Charlotte" Town
+502 "Exit 44" Exit
+503 "Nashville" Town
+504 "Exit 60" Exit
+505 "Garden City" Town
+506 "Route 50/Upland" Junction
+507 "Exit 6" Exit
+508 "Stockbridge" Town
+509 "Eaton Rapids" Town
+510 "Route 79/Route 66" Junction
+511 "Route 52/Route 106" Junction
+512 "Exit 25" Exit
+513 "Telegraph/Michigan" Junction
+514 "Exit 43" Exit
+515 "Exit 57" Exit
+516 "Exit 204" Exit
+517 "Route 14/Route 153" Junction
+518 "Exit 202" Exit
+519 "Exit 41" Exit
+520 "Lincoln Park" Town
+521 "Exit 22" Exit
+522 "Exit 42" Exit
+523 "Exit 45" Exit
+524 "Main Street/Jackson" Junction
+525 "Route 50/Route 99" Junction
+526 "Willow Run Airport" Town
+527 "Dunningville" Town
+528 "Ann Arbor" Town
+529 "Exit 169" Exit
+530 "I-94/I-275" Junction
+531 "Exit 172" Exit
+532 "Exit 55" Exit
+533 "Romulus" Town
+534 "Exit 37" Exit
+535 "Exit 35" Exit
+536 "Ypsilanti" Town
+537 "Exit 48" Exit
+538 "Exit 183" Exit
+539 "Exit 159" Exit
+540 "Exit 34" Exit
+541 "Exit 182" Exit
+542 "Exit 34" Exit
+543 "Exit 181" Exit
+544 "Allegan" Town
+545 "Exit 180/Exit 35" Exit
+546 "US-12/US-23" Junction
+547 "Route 78/Route 66" Junction
+548 "Flat Rock" Town
+549 "Exit 144" Exit
+550 "US 127/Route 50" Junction
+551 "Exit 142" Exit
+552 "Exit 49" Exit
+553 "Exit 139" Exit
+554 "I-94/US-127" Junction
+555 "Exit 136" Exit
+556 "Business 94/US 127" Junction
+557 "Exit 27" Exit
+558 "Michigan/Airline" Junction
+559 "Route 43/Route 89" Junction
+560 "Jackson" Town
+561 "Business 94/Route 60" Junction
+562 "Bedford/Michigan Ave" Junction
+563 "Richland" Town
+564 "Exit 124" Exit
+565 "Exit 121" Exit
+566 "Spring Arbor" Town
+567 "I-94/I-69" Junction
+568 "Exit 3" Exit
+569 "Battle Creek" Town
+570 "US 127/Route 50" Junction
+571 "Dickman/Columbia" Junction
+572 "Albion" Town
+573 "Exit 103" Exit
+574 "US 127/Route 50" Junction
+575 "Exit 2" Exit
+576 "Exit 98" Exit
+577 "Exit 20" Exit
+578 "Exit 41" Exit
+579 "Business 131/Park St" Junction
+580 "I-75/I-275" Junction
+581 "Business 196/Route 140" Junction
+582 "Exit 92" Exit
+583 "South Haven" Town
+584 "Overpass" Junction
+585 "Kalamazoo" Town
+586 "Gull Rd/Kalamazoo" Junction
+587 "Business 94/King" Junction
+588 "Clinton" Town
+589 "Exit 38" Exit
+590 "Exit 18" Exit
+591 "Exit 80" Exit
+592 "Route 60/Route 99" Junction
+593 "Route 43/Route 40" Junction
+594 "Exit 36" Exit
+595 "Homer" Town
+596 "Cambridge Junction" Town
+597 "I-94/US-131" Junction
+598 "Exit 17" Exit
+599 "Exit 13" Exit
+600 "Monroe" Town
+601 "Route 50/Route 52" Junction
+602 "US-12/US-127" Junction
+603 "US-127/US-223" Junction
+604 "Exit 25" Exit
+605 "Exit 60" Exit
+606 "Litchfield" Town
+607 "Exit 56" Exit
+608 "Schoolcraft" Junction
+609 "Exit 7" Exit
+610 "Adrian" Town
+611 "US 223" Junction
+612 "Route 60/Route 66" Junction
+613 "Jonesville" Town
+614 "US-223/Route 34" Junction
+615 "Route 52/Route 223" Junction
+616 "Exit 41" Exit
+617 "Allen" Town
+618 "Exit 5" Exit
+619 "Blissfield" Town
+620 "Route 60/Route 66" Junction
+621 "I-94/I-196" Junction
+622 "MI/OH Border" Junction
+623 "Exit 13" Exit
+624 "US-127/Route 34" Junction
+625 "Osseo" Town
+626 "Exit 33" Exit
+627 "MI/OH Border" Junction
+628 "Coldwater" Town
+629 "US 12/Route 86" Junction
+630 "Benton Harbor" Town
+631 "MI/OH Border" Junction
+632 "MI/OH Border" Junction
+633 "Business 94/Route 63" Junction
+634 "Exit 10" Exit
+635 "Business 94/Route 63" Junction
+636 "North Three Rivers Exit" Exit
+637 "Route 86/Route 66" Junction
+638 "Exit 28" Exit
+639 "South Three Rivers Exit" Exit
+640 "Exit 27" Exit
+641 "Three Rivers" Town
+642 "Route 86/Route 66" Junction
+643 "MI/OH Border" Junction
+644 "US-31/Route 139" Junction
+645 "Exit 23" Exit
+646 "US-131/Route 60" Junction
+647 "Dowagiac" Town
+648 "Jones" Town
+649 "MI/OH Border" Junction
+650 "Berrien Springs" Town
+651 "Cassopolis" Town
+652 "MI/OH Border" Junction
+653 "Route 60/Route 62" Junction
+654 "MI/IN Border" Junction
+655 "Sturgis" Town
+656 "US-12/Route 66" Junction
+657 "MI/OH Border" Junction
+658 "White Pigeon" Town
+659 "US 31" Junction
+660 "MI/IN Border" Junction
+661 "Mottville" Town
+662 "US-31" Junction
+663 "US-12/Route 40" Junction
+664 "Route 140" Junction
+665 "MI/IN Border" Junction
+666 "Route 60/Business 60" Junction
+667 "Niles" Town
+668 "MI/IN Border" Junction
+669 "Edwardsburg" Town
+670 "US-12/Route 60" Junction
+671 "US-12/Route 205" Junction
+672 "US-12/US-33" Junction
+673 "US-12/Business 31" Junction
+674 "US-31/US-12" Junction
+675 "MI/IN Border" Junction
+676 "MI/IN Border" Junction
+677 "MI/IN Border" Junction
+678 "MI/IN Border" Junction
+679 "Exit 4" Exit
+680 "Exit 1" Exit
+681 "MI/IN Border" Junction
+682 "MI/IN Border" Junction
+683 "MI/IN Border" Junction
+684 "Houghton" Junction
+685 "Drummond Island" Town
+686 "Blue River Bridge" Town
+687 "MI/WI Border" Junction
+688 "" Town 
+689 "Grand Rapids" Town
+690 "Flint" Town
+691 "Gaylord" Town
+692 "Ithaca" Town
+693 "St Johns" Town
+694 "Sleeping Bear Dunes" Park
+695 "Charles Mears State Park" Park
+696 "Brighton" Town
+697 "Hell" Town
+698 "Paradise" Town
+699 "Tahquamenon Falls Entrance" Junction
+700 "Tahquamenon Falls" Park
+EDGES
+0 1 2 "US-41" 1.390 50
+1 1 3 "US-41" 18.948 50
+2 1 3 "Route 26" 20.704 50
+3 3 4 "US-41, Route 26" 13.270 50
+4 4 5 "US-41" 9.217 50
+5 4 5 "Route 26" 12.806 50
+6 4 5 "Route 203" 15.903 50
+7 6 7 "Route 129" 1.553 70
+8 8 6 "Business I-75" 1.339 70
+9 7 8 "I-75" 2.350 70
+10 8 9 "I-75" 7.585 70
+11 10 11 "US-41" 27.191 50
+12 12 9 "Route 28" 29.865 50
+13 13 14 "Route 38" 12.397 50
+14 10 15 "Route 26" 35.362 50
+15 14 15 "Route 26/38" 1.427 50
+16 15 11 "Route 38" 27.852 50
+17 9 16 "I-75" 12.826 70
+18 6 17 "Route 129" 20.045 50
+19 14 18 "Route 26" 4.608 50
+20 13 18 "US-45" 13.233 50
+21 16 17 "Route 48" 10.690 50
+22 16 19 "??????" 2.547 70
+23 16 19 "??????" 3.756 50
+24 12 20 "Route 28" 23.533 50
+25 12 698 "Route 123" 61.765 50
+26 21 20 "Route 28" 2.659 50
+27 22 23 "Route 77" 23.405 50
+28 24 25 "US-41" 8.254 50
+29 26 23 "Route 28/77" 0.511 50
+30 17 27 "Route 48/129" 3.870 50
+31 23 21 "Route 28" 19.195 50
+32 24 28 "US-41" 3.030 50
+33 29 25 "US-41" 3.670 50
+34 30 28 "Route 28" 39.673 50
+35 11 31 "US-41" 16.877 45
+36 32 26 "Route 28" 24.647 50
+37 30 32 "Route 28/94" 9.068 50
+38 29 33 "Business Route 28" 5.764 40
+39 33 29 "US-41" 5.548 50
+40 34 33 "US-41" 9.312 50
+41 31 34 "US-41" 28.360 50
+42 31 35 "US-141" 3.609 50
+43 16 36 "I-75" 15.25 70
+44 27 37 "Route 48" 23.268 50
+45 13 38 "Route 64" 28.655 50
+46 39 37 "Route 134" 13.728 50
+47 27 39 "Route 129" 8.814 50
+48 40 30 "Route 94" 15.218 50
+49 41 40 "Route 94" 15.441 45
+50 28 41 "US-41" 12.800 50
+51 36 39 "Route 134" 16.949 50
+52 42 38 "Route 28/64" 3.966 50
+53 18 43 "US-45" 14.195 50
+54 38 43 "Route 28" 19.707 50
+55 21 44 "Route 117" 14.291 50
+56 43 35 "Route 28" 33.982 50
+57 36 45 "I-75" 7.483 70
+58 24 46 "" 18.121 50
+59 25 46 "Route 35" 25.000 50
+60 12 45 "Route 123" 33.041 50
+61 47 44 "US-2" 17.233 50
+62 26 47 "Route 77" 17.497 50
+63 40 48 "Route 67" 11.501 50
+64 41 48 "US-41" 16.153 50
+65 49 42 "Route 28" 15.818 50
+66 49 50 "US-2" 11.816 50
+67 50 51 "US-2" 0.532 50
+68 52 53 "Business I-75" 0.497 70
+69 45 52 "I-75" 7.091 70
+70 54 50 "" 0.923 50
+71 44 52 "US-2" 46.967 50
+72 42 55 "Route 64" 17.653 45
+73 56 55 "US-2" 1.652 45
+74 49 56 "US-2" 13.810 50
+75 57 58 "Route 108" 0.354 50
+76 59 47 "US-2" 19.549 50
+77 32 59 "Route 94" 34.401 50
+78 43 60 "US-45" 19.020 45
+79 55 60 "US-2" 25.578 50
+80 61 57 "I-75" 2.835 70
+81 56 62 "Route 64" 8.617 50
+82 34 63 "Route 95" 31.925 45
+83 60 64 "US-2" 21.866 50
+84 65 66 "" 0.834 50
+85 57 66 "US-23" 16.106 50
+86 35 67 "US-141" 34.682 50
+87 67 68 "US-2/141" 0.831 50
+88 68 63 "Route 69" 13.204 50
+89 59 69 "US-2" 16.337 50
+90 60 70 "US-45" 7.369 50
+91 48 71 "US-41" 18.334 45
+92 64 72 "US-2" 5.291 50
+93 73 67 "US-2" 14.539 50
+94 72 73 "US-2" 1.930 50
+95 66 74 "Route 27" 3.352 50
+96 71 69 "US-2" 24.275 50
+97 75 71 "US-2/41" 6.406 50
+98 72 76 "Route 73" 7.094 50
+99 46 75 "Route 35" 38.344 50
+100 68 77 "US-2/141" 9.662 50
+101 78 73 "Route 189" 7.497 50
+102 66 79 "US-23" 40.481 50
+103 79 80 "US-23" 7.030 50
+104 63 81 "Route 95" 16.527 50
+105 82 81 "US-2/141" 1.829 50
+106 74 83 "Route 27" 13.813 45
+107 83 61 "I-75" 22.854 70
+108 61 84 "US-31" 20.952 50
+109 85 75 "US-2/41" 8.640 50
+110 81 86 "US-2/141" 2.396 50
+111 87 79 "Route 68" 21.870 50
+112 86 88 "US-2/141" 2.587 50
+113 74 89 "Route 33" 15.692 50
+114 89 87 "Route 33/68" 10.374 50
+115 88 90 "US-2" 5.496 50
+116 83 91 "I-75" 3.988 70
+117 84 91 "Route 68" 12.333 50
+118 91 89 "Route 68" 6.986 45
+119 88 92 "US-141" 1.174 50
+120 86 93 "Route 95" 2.039 50
+121 69 94 "Route 183" 22.865 50
+122 90 95 "US-8" 2.257 50
+123 96 85 "US-2/41" 21.143 50
+124 90 96 "US-2" 21.598 50
+125 80 97 "US-23" 27.898 50
+126 98 99 "US-31" 16.242 45
+127 100 97 "Route 32" 12.870 50
+128 80 100 "Route 65" 19.111 50
+129 101 100 "Route 32/65" 1.648 50
+130 98 102 "Route 66" 12.831 50
+131 87 103 "Route 33" 24.436 50
+132 104 101 "Route 32" 18.459 50
+133 103 104 "Route 32" 6.055 50
+134 99 105 "US-131" 21.410 45
+135 102 105 "Route 32" 14.091 50
+136 105 106 "US-131" 0.638 50
+137 91 107 "I-75" 26.365 70
+138 107 106 "Route 32" 11.516 45
+139 98 108 "US-31" 15.968 50
+140 107 103 "Route 32" 33.485 50
+141 109 110 "" 0.424 50
+142 106 111 "US-131" 13.173 50
+143 102 111 "Route 66" 17.309 50
+144 97 112 "US-23" 32.551 45
+145 101 113 "Route 65" 26.814 50
+146 114 111 "US-131" 1.446 45
+147 114 108 "Route 88" 24.293 50
+148 115 113 "Route 72" 12.178 50
+149 104 115 "Route 33" 19.435 50
+150 96 116 "US-41" 38.010 45
+151 117 112 "Route 72" 21.739 50
+152 113 117 "Route 65/72" 7.325 50
+153 107 118 "I-75" 17.939 70
+154 118 119 "" 6.368 50
+155 116 120 "US-41" 3.857 50
+156 115 121 "Route 33/72" 8.015 50
+157 122 110 "Route 22" 17.651 45
+158 123 119 "Route 93" 3.279 45
+159 118 123 "I-75" 4.989 70
+160 124 114 "US-131" 12.712 50
+161 125 124 "Route 72" 16.819 50
+162 124 126 "US-131" 0.571 50
+163 123 127 "Route 93" 3.573 50
+164 122 128 "Route 22" 5.124 50
+165 122 128 "Route 109" 6.441 50
+166 123 136 "I-75" 4.811 70
+167 130 133 "Route 72" 14.837 50
+168 127 130 "Route 72" 0.513 45
+169 110 131 "Route 22" 36.824 50
+170 132 127 "Route 72/93" 1.706 50
+171 133 121 "Route 72" 15.589 50
+172 126 134 "US-131" 1.436 50
+173 135 132 "Route 72" 22.303 50
+174 135 126 "" 1.293 50
+175 134 135 "Route 66/72" 0.934 50
+176 692 301 "Ithaca Rd" 0.8 30
+177 692 306 "Ithaca Rd" 0.8 30
+178 130 136 "Business I-75" 1.203 70
+179 131 137 "Route 72" 1.420 50
+180 137 125 "US-31" 7.938 50
+181 138 131 "Route 72" 21.117 50
+182 128 138 "Route 22" 2.350 50
+183 132 139 "Route 93" 2.059 50
+184 136 140 "I-75" 3.285 70
+185 141 140 "W 4 Mile Rd" 2.906 50
+186 141 139 "Military Rd" 2.588 50
+187 140 142 "I-75" 0.920 70
+188 143 137 "US-31" 6.677 50
+189 142 144 "I-75" 5.982 70
+190 133 145 "Route 18" 15.286 50
+191 144 145 "Business I-75" 3.232 70
+192 142 146 "US-27" 5.816 50
+193 146 141 "Beaver Creek Rd" 5.820 50
+194 145 147 "Business I-75, Route 18" 2.220 40
+195 144 147 "I-75" 3.842 70
+196 143 148 "Route 37" 5.933 50
+197 112 149 "US-23" 31.445 50
+198 138 150 "Route 22" 20.296 45
+199 151 150 "Route 168" 0.669 50
+200 134 152 "US-131" 16.540 50
+201 148 152 "Route 113" 16.341 50
+202 153 143 "US-31" 24.694 50
+203 150 153 "Route 115" 6.596 50
+204 154 153 "US-31" 1.307 50
+205 155 149 "Route 55" 15.062 50
+206 117 155 "Route 65" 32.613 45
+207 156 155 "Route 55" 15.970 50
+208 121 156 "Route 33" 26.436 50
+209 147 157 "I-75" 12.192 70
+210 158 156 "Route 55" 4.711 50
+211 159 158 "Business I-75, Route 55" 1.171 35
+212 160 159 "Business I-75, Route 55" 1.487 45
+213 157 160 "I-75" 11.704 70
+214 161 158 "Business I-75" 0.762 70
+215 162 157 "Route 55" 1.332 50
+216 162 160 "" 12.314 50
+217 163 159 "Route 30" 1.097 50
+218 160 166 "I-75" 2.990 70
+219 146 164 "US-27" 12.946 50
+220 165 152 "US-131" 8.565 50
+221 166 161 "Business I-75" 1.671 70
+222 691 107 "Route 32" 0.421 70
+223 167 162 "Route 55" 5.920 45
+224 147 167 "Route 18" 11.583 50
+225 168 165 "US-131" 0.537 50
+226 169 167 "Route 18, Route 55" 1.082 50
+227 135 170 "Route 66" 26.393 50
+228 170 168 "Route 42" 10.263 50
+229 164 169 "Route 55" 8.798 50
+230 165 171 "Route 42" 15.262 50
+231 148 171 "Route 37" 14.202 50
+232 172 164 "Route 55" 19.792 50
+233 170 172 "Route 66" 1.704 50
+234 154 173 "Route 115" 23.784 50
+235 171 174 "Route 37" 0.606 50
+236 173 174 "Route 37, Route 115" 0.776 50
+237 156 175 "Route 33" 8.334 50
+238 161 175 "" 8.516 50
+239 175 176 "Route 33" 1.515 45
+240 166 176 "I-75" 8.159 70
+241 177 172 "Route 55, Route 66" 5.094 50
+242 149 178 "US-23" 27.073 50
+243 155 178 "Route 65" 16.338 50
+244 179 177 "Route 55" 9.219 50
+245 179 168 "US-131" 10.319 50
+246 180 181 "Route 25" 24.587 50
+247 182 179 "US-131" 1.456 50
+248 183 182 "Route 55" 2.678 50
+249 174 183 "Route 115" 18.345 50
+250 184 182 "US-131" 2.045 45
+251 183 184 "Route 115" 2.422 50
+252 185 178 "US-23" 8.614 50
+253 175 185 "" 15.113 50
+254 186 154 "US-31" 23.813 50
+255 187 185 "Route 61" 3.490 50
+256 176 187 "I-75" 12.968 70
+257 188 183 "Route 55" 17.946 50
+258 188 173 "Route 37" 14.359 45
+259 180 189 "Route 53" 15.741 50
+260 164 190 "US-27" 17.938 50
+261 191 185 "US-23" 2.555 50
+262 186 192 "US-31" 2.887 50
+263 193 191 "US-23" 2.531 50
+264 187 193 "I-75" 1.959 70
+265 194 181 "Route 142" 15.209 50
+266 195 194 "Route 142" 2.533 50
+267 189 195 "Route 53, Route 142" 1.169 45
+268 177 196 "Route 66" 14.275 50
+269 192 188 "Route 55" 25.279 50
+270 197 187 "Route 61" 17.136 50
+271 197 163 "Route 30" 22.985 50
+272 198 197 "Route 61" 5.885 50
+273 169 198 "Route 18" 28.533 50
+274 199 189 "Route 142" 19.191 50
+275 199 180 "Route 25" 27.682 45
+276 200 198 "Route 18, Route 61" 1.234 50
+277 201 190 "Business US-27" 3.908 40
+278 196 202 "" 8.922 50
+279 202 201 "Route 61" 12.573 50
+280 202 203 "Route 61" 5.170 45
+281 196 203 "Route 66" 3.592 50
+282 203 204 "Route 61" 0.992 50
+283 184 204 "Route 115" 16.611 50
+284 205 200 "Route 61" 13.135 50
+285 190 205 "US-27" 5.980 50
+286 201 205 "Business US-27, Route 61" 2.695 40
+287 203 206 "Route 66" 0.945 50
+288 204 206 "Route 115" 1.257 50
+289 205 207 "US-27" 8.743 50
+290 206 208 "Route 66" 9.296 50
+291 195 209 "Route 53" 17.112 50
+292 210 207 "US-10" 6.196 50
+293 206 210 "Route 115" 17.508 50
+294 207 211 "US-10, US-27" 1.919 50
+295 212 199 "Route 25" 14.573 50
+296 211 213 "US-10, US-27" 1.578 45
+297 208 210 "US-10" 12.907 50
+298 213 214 "US-27" 0.597 50
+299 213 215 "US-10" 2.455 50
+300 214 215 "Business US-10" 2.390 40
+301 216 214 "Business US-10" 1.167 40
+302 216 211 "Business US-27" 1.716 40
+303 210 216 "Business US-10" 7.913 40
+304 188 217 "Route 37" 20.031 50
+305 214 218 "US-27" 1.640 50
+306 216 218 "Business US-27" 1.394 40
+307 184 219 "US-131" 23.203 45
+308 219 208 "US-10" 19.951 50
+309 200 220 "Route 18" 17.729 50
+310 215 220 "US-10" 12.113 50
+311 221 217 "US-10" 21.642 45
+312 192 221 "US-31" 23.132 50
+313 222 219 "US-10" 15.779 50
+314 217 222 "US-10" 2.898 50
+315 181 223 "Route 25" 28.965 50
+316 191 224 "Route 13" 22.326 50
+317 225 221 "US-10, US-31" 6.498 50
+318 226 197 "Route 30" 21.046 50
+319 220 226 "US-10" 6.629 50
+320 225 227 "US-10" 2.195 50
+321 228 224 "Route 13" 1.877 50
+322 193 228 "I-75" 24.966 70
+323 226 229 "US-10" 6.869 50
+324 230 212 "Route 25" 21.880 50
+325 231 230 "Route 25" 0.928 50
+326 232 231 "Route 25" 1.329 50
+327 224 232 "Route 13" 3.873 45
+328 232 233 "Route 25" 1.586 35
+329 228 233 "I-75" 1.825 70
+330 234 223 "Route 46" 13.942 50
+331 231 235 "Route 84" 0.949 50
+332 236 235 "Route 13, Route 84" 1.362 45
+333 236 232 "Route 13" 0.884 35
+334 229 237 "US-10" 5.211 50
+335 238 209 "Route 81" 18.346 50
+336 239 234 "Route 19, Route 46" 5.640 50
+337 239 194 "Route 19" 26.144 50
+338 229 240 "Eastman Ave" 2.994 50
+339 241 233 "US-10" 9.561 50
+340 237 241 "US-10" 1.920 50
+341 242 236 "Route 84" 1.946 35
+342 233 242 "I-75" 1.955 70
+343 243 239 "Route 46" 7.123 50
+344 209 243 "Route 53" 12.824 50
+345 244 212 "Route 138" 26.300 50
+346 230 244 "Route 15" 5.976 50
+347 219 245 "US-131" 10.787 50
+348 241 246 "Route 47" 3.720 50
+349 218 247 "US-27" 11.892 50
+350 242 248 "I-75" 4.696 70
+351 365 693 "US-21" 0.5 50
+352 247 249 "US-27" 1353.654 50
+353 250 243 "Route 46" 15.291 50
+354 250 238 "Route 24" 5.646 50
+355 251 240 "Route 20" 26.083 50
+356 247 251 "Business US-27" 1.325 40
+357 225 252 "US-31" 9.598 50
+358 245 253 "Business US-131" 3.415 40
+359 252 254 "US-31" 0.826 50
+360 223 255 "Route 25" 11.343 50
+361 235 256 "Route 13" 7.753 50
+362 251 257 "Business US-27, Route 20" 0.915 40
+363 248 256 "I-75" 2.735 70
+364 238 258 "Route 81" 19.156 50
+365 244 258 "Route 15" 5.561 50
+366 253 259 "Route 20" 1.107 40
+367 260 259 "Route 20" 1.364 40
+368 260 245 "US-131" 3.373 45
+369 258 261 "Route 15" 0.909 50
+370 262 258 "Route 81" 6.776 50
+371 256 262 "I-75" 1.662 70
+372 247 263 "US-27" 4.224 50
+373 264 262 "Washington Ave" 1.393 30
+374 264 256 "Veterans Mem Hwy" 1.505 35
+375 257 263 "Business US-27" 2.851 40
+376 265 250 "Route 46" 14.716 50
+377 261 265 "Route 15" 4.246 50
+378 262 266 "I-75" 1.392 70
+379 254 267 "" 4.104 50
+380 268 265 "Route 46" 3.263 50
+381 268 261 "Route 83" 2.159 50
+382 269 266 "I-675" 2.441 70
+383 269 264 "Washington Ave" 1.793 30
+384 270 267 "" 1.550 50
+385 254 270 "US-31" 3.534 50
+386 252 270 "Business US-31" 5.852 40
+387 269 271 "I-675" 0.951 70
+388 248 271 "I-675" 4.851 70
+389 272 255 "Route 90" 13.645 50
+390 273 271 "Davenport Rd" 1.076 35
+391 273 242 "Bay Rd" 9.231 45
+392 234 272 "Route 19" 11.621 50
+393 274 257 "Route 20" 19.058 50
+394 208 274 "Route 66" 21.009 50
+395 275 273 "Route 58" 3.056 50
+396 246 275 "Route 47" 8.778 50
+397 276 268 "Route 46" 7.473 50
+398 266 276 "I-75" 1.233 70
+399 259 274 "Route 20" 23.423 50
+400 277 276 "Holland Ave" 2.732 35
+401 277 269 "Washington Ave" 1.265 25
+402 278 277 "Route 46" 4.466 50
+403 275 278 "Route 47" 1.654 50
+404 278 279 "Route 46" 5.006 50
+405 272 280 "Route 19, Route 90" 2.908 50
+406 243 281 "Route 53" 12.741 50
+407 282 260 "Route 20" 19.742 50
+408 222 282 "Route 37" 23.340 50
+409 283 280 "Route 90" 13.727 50
+410 281 283 "Route 53, Route 90" 1.555 50
+411 284 281 "Route 90" 12.030 50
+412 250 284 "Route 24" 15.265 50
+413 279 285 "Route 46" 23.957 50
+414 282 286 "Route 20, Route 37" 2.046 50
+415 263 287 "US-27" 12.628 50
+416 288 285 "Business US-27, Route 46" 2.639 40
+417 287 288 "US-27" 1.032 50
+418 289 288 "Route 46" 0.855 50
+419 287 289 "Business US-27" 0.632 40
+420 290 285 "Business US-27" 1.922 40
+421 288 290 "US-27" 3.062 50
+422 291 286 "Route 20" 13.297 50
+423 292 268 "Route 83" 10.911 45
+424 289 290 "Business US-27" 4.481 40
+425 293 292 "Route 54, Route 83" 1.933 45
+426 276 293 "I-75" 13.356 70
+427 274 294 "Route 66" 11.428 50
+428 295 289 "Route 46" 20.555 50
+429 296 291 "Route 20" 15.798 50
+430 267 296 "" 14.167 50
+431 297 294 "Route 46" 5.389 50
+432 294 295 "Route 46, Route 66" 4.187 50
+433 298 265 "Route 15" 19.073 50
+434 299 296 "Route 20" 2.011 50
+435 270 299 "US-31" 14.135 45
+436 255 300 "Route 25" 19.885 50
+437 290 301 "US-27" 4.547 50
+438 302 297 "Route 46" 9.725 50
+439 259 302 "" 18.154 45
+440 303 302 "Route 46" 1.391 45
+441 303 260 "US-131" 17.941 50
+442 304 298 "Route 57" 9.839 50
+443 292 304 "Route 54" 5.281 50
+444 305 304 "Route 57" 2.756 50
+445 293 305 "I-75" 5.086 70
+446 301 306 "US-27" 1.755 45
+447 304 307 "Route 54" 1.308 50
+448 306 301 "Business US-27" 2.727 40
+449 300 308 "I-69, I-94" 2.726 70
+450 309 300 "Route 29" 2.019 45
+451 308 309 "Business I-69" 2.895 35
+452 308 310 "I-69, I-94" 0.500 70
+453 311 310 "I-69" 5.895 70
+454 312 291 "Route 120" 6.863 50
+455 313 303 "US-131" 2.712 50
+456 314 305 "Route 57" 8.182 50
+457 277 314 "Route 13" 16.777 50
+458 315 311 "" 7.848 45
+459 280 315 "Route 19" 16.252 50
+460 286 316 "Route 37" 10.452 50
+461 296 317 "" 5.962 50
+462 299 317 "US-31" 5.489 50
+463 283 318 "Route 53" 12.409 50
+464 318 315 "" 16.970 50
+465 306 319 "US-27" 3.624 50
+466 279 320 "Route 52" 16.045 50
+467 321 313 "Route 82" 15.515 50
+468 316 321 "Route 37, Route 82" 1.080 50
+469 320 314 "Route 57" 12.415 50
+470 312 316 "Route 82" 14.799 50
+471 322 311 "I-69" 8.032 70
+472 322 315 "Route 19" 1.856 50
+473 309 323 "Route 29" 4.198 45
+474 324 318 "" 13.110 50
+475 284 324 "Route 24" 11.641 50
+476 325 307 "" 4.564 50
+477 324 326 "Route 24" 0.695 50
+478 318 327 "Route 53" 1.990 50
+479 323 328 "Business I-94" 1.954 70
+480 310 328 "I-94" 4.714 70
+481 325 329 "I-475" 3.466 70
+482 305 329 "I-75" 5.564 70
+483 327 322 "I-69" 16.805 70
+484 326 327 "I-69" 13.554 70
+485 330 307 "Route 54" 7.898 50
+486 325 330 "I-475" 3.404 70
+487 331 320 "Route 57" 19.990 50
+488 319 331 "US-27" 4.892 50
+489 332 326 "I-69" 10.270 70
+490 298 332 "Route 15" 11.708 50
+491 333 332 "I-69" 6.923 70
+492 333 330 "Dort Hwy" 3.237 45
+493 334 333 "I-69" 1.342 70
+494 330 334 "I-475" 3.082 70
+495 335 334 "I-69" 0.627 70
+496 336 335 "Corunna Rd" 3.403 35
+497 329 336 "I-75" 6.698 70
+498 337 333 "Dort Hwy" 2.548 40
+499 338 331 "Route 57" 26.013 50
+500 295 338 "Route 66" 16.302 50
+501 339 335 "I-69" 2.528 70
+502 336 339 "I-75" 1.546 70
+503 340 337 "Bristol Rd" 1.526 45
+504 334 340 "I-475" 2.620 70
+505 341 340 "Bristol Rd" 2.064 45
+506 339 341 "I-75" 0.930 70
+507 342 336 "Route 21" 9.164 50
+508 314 342 "Route 13" 12.085 50
+509 343 341 "Bristol Rd" 2.314 50
+510 343 339 "I-69" 2.138 70
+511 313 344 "US-131" 13.063 50
+512 345 297 "Route 91" 17.759 45
+513 346 338 "Route 57" 9.152 50
+514 346 345 "Route 91" 0.413 50
+515 347 312 "Route 120" 17.046 50
+516 317 347 "US-31" 15.341 50
+517 341 348 "I-75" 1.475 70
+518 349 328 "" 13.900 50
+519 322 349 "Route 19" 12.228 50
+520 321 350 "Route 37" 12.325 50
+521 351 343 "I-69" 8.235 70
+522 342 351 "Route 13" 2.138 50
+523 352 344 "Route 46" 8.939 50
+524 350 352 "Route 37, Route 46" 2.743 50
+525 340 353 "I-475" 3.058 70
+526 348 353 "I-75" 2.076 70
+527 354 342 "Route 21" 11.965 50
+528 355 354 "Route 21" 0.475 50
+529 320 355 "Route 52" 13.214 50
+530 356 345 "Route 57" 14.956 50
+531 302 356 "" 18.371 50
+532 356 357 "Route 57" 1.971 50
+533 357 344 "US-131" 2.964 50
+534 358 359 "Business US-31" 1.278 40
+535 360 337 "Route 54" 6.444 50
+536 353 360 "I-75" 4.428 70
+537 361 350 "Route 46" 19.545 50
+538 359 361 "US-31" 1.888 50
+539 362 361 "Route 46" 1.494 50
+540 358 362 "Business US-31" 1.362 40
+541 363 351 "I-69" 4.802 70
+542 354 363 "Route 71" 9.574 50
+543 338 364 "Route 66" 6.987 50
+544 365 355 "Route 21" 19.259 50
+545 331 365 "US-27" 12.118 50
+546 366 364 "Route 44" 9.702 50
+547 366 346 "Route 91" 5.923 45
+548 367 349 "Route 19" 6.120 50
+549 368 328 "I-94" 19.745 70
+550 367 368 "Route 19" 1.318 50
+551 369 366 "Route 44" 14.645 45
+552 369 356 "" 6.039 50
+553 327 370 "Route 53" 19.470 50
+554 371 361 "US-31" 4.326 50
+555 362 371 "Business US-31" 6.842 40
+556 372 368 "I-94" 3.114 70
+557 373 372 "Route 3, Route 59" 0.760 50
+558 373 367 "" 3.850 50
+559 348 374 "US-23" 10.483 50
+560 323 372 "Route 29" 39.489 50
+561 374 375 "Business US-23" 1.973 40
+562 376 693 "Route 21" 27.003 50
+563 364 376 "Route 66" 6.230 45
+564 332 377 "Route 15" 19.742 50
+565 378 377 "I-75" 1.959 70
+566 360 378 "I-75" 14.181 70
+567 379 363 "I-69" 12.840 70
+568 355 379 "Route 52" 11.540 50
+569 380 326 "Route 24" 24.999 45
+570 380 381 "Business I-75" 0.602 70
+571 382 372 "I-94" 3.508 70
+572 377 381 "I-75" 9.753 70
+573 383 382 "" 0.572 50
+574 383 373 "Route 3, Route 59" 3.462 50
+575 384 377 "Route 15" 2.264 50
+576 378 384 "US-24" 2.546 45
+577 371 385 "I-96" 8.965 70
+578 386 380 "Route 24" 1.177 35
+579 381 386 "I-75" 1.106 70
+580 357 387 "US-131" 12.362 50
+581 352 388 "Route 37" 15.419 45
+582 389 387 "I-96" 0.499 70
+583 388 389 "I-96" 0.683 70
+584 371 390 "US-31" 6.364 50
+585 387 391 "US-131" 0.543 50
+586 389 391 "" 0.404 50
+587 392 383 "Metropolitan Pkwy" 7.739 35
+588 370 392 "Metropolitan Pkwy" 6.756 45
+589 385 393 "I-96" 15.240 70
+590 390 385 "Route 104" 6.384 50
+591 393 388 "I-96" 5.622 70
+592 384 394 "US-24" 5.595 50
+593 387 395 "I-96" 5.462 70
+594 396 392 "Route 59" 11.825 50
+595 386 396 "I-75" 2.457 70
+596 397 369 "Route 44" 8.686 45
+597 395 397 "I-96" 0.585 70
+598 398 396 "Route 59" 2.445 50
+599 398 386 "Route 24" 3.400 35
+600 394 398 "Business US-24, Route 1" 3.004 40
+601 397 399 "I-96" 0.923 70
+602 365 400 "US-27" 12.820 50
+603 401 395 "I-196" 3.996 70
+604 391 401 "US-131" 2.828 50
+605 402 398 "Route 59" 1.867 50
+606 394 402 "US-24" 2.854 50
+607 400 403 "I-69" 1.629 70
+608 392 404 "Route 53" 3.229 50
+609 399 376 "Route 21" 27.139 50
+610 405 379 "I-69" 9.658 70
+611 376 406 "Route 66" 7.146 50
+612 396 407 "I-75" 1.984 70
+613 401 408 "I-196" 1.713 70
+614 409 408 "Route 45" 3.635 50
+615 409 393 "Wilson Ave" 4.139 50
+616 410 379 "M-78" 9.999 50
+617 410 405 "Business I-69" 0.754 70
+618 403 405 "I-69" 6.819 70
+619 411 407 "Business I-75" 2.059 70
+620 398 411 "Route 1" 2.910 35
+621 412 411 "Huron St" 1.164 35
+622 402 412 "US-24" 3.409 50
+623 399 413 "I-96" 4.379 70
+624 414 400 "I-69" 6.476 70
+625 414 415 "" 0.945 50
+626 416 413 "Route 11" 2.567 50
+627 416 397 "Route 37" 4.205 50
+628 417 415 "I-96" 2.754 70
+629 406 417 "I-96" 18.729 70
+630 418 414 "I-69" 0.268 70
+631 419 418 "Business I-96" 0.444 45
+632 419 415 "I-96" 0.581 70
+633 420 406 "I-96" 15.053 70
+634 421 418 "I-69" 0.649 70
+635 421 419 "I-96" 0.664 70
+636 409 422 "Route 45" 19.966 50
+637 390 422 "US-31" 8.055 50
+638 413 420 "I-96" 8.855 70
+639 400 423 "Business US-27" 4.909 40
+640 419 423 "Grand River Ave" 6.936 40
+641 408 424 "I-196" 5.043 70
+642 424 409 "Wilson Ave" 4.247 50
+643 410 425 "Saginaw" 6.541 40
+644 403 425 "US-127" 4.700 50
+645 426 402 "Route 59" 22.803 50
+646 374 426 "US-23" 12.279 50
+647 427 425 "Saginaw" 1.902 35
+648 423 427 "Cedar St" 0.535 40
+649 428 424 "I-196" 0.942 70
+650 427 429 "Cedar St" 0.553 40
+651 425 430 "US-127" 1.045 50
+652 431 430 "I-496" 2.193 70
+653 429 431 "Cedar St" 0.483 40
+654 431 432 "I-496" 1.274 70
+655 432 429 "Route 99" 1.685 50
+656 433 427 "Saginaw" 6.278 40
+657 421 433 "I-69, I-96" 2.571 70
+658 434 382 "I-94" 11.143 70
+659 435 434 "I-696" 1.459 70
+660 435 383 "Route 3" 11.031 50
+661 433 436 "Route 43" 3.330 50
+662 436 417 "Route 100" 3.995 50
+663 379 437 "Route 52" 13.184 50
+664 438 432 "I-496" 5.010 70
+665 438 433 "I-69, I-96" 1.195 70
+666 439 435 "I-696" 4.049 70
+667 404 439 "Van Dyke" 7.579 40
+668 440 426 "Route 59" 12.206 45
+669 437 440 "I-96" 10.934 70
+670 441 439 "I-696" 4.761 70
+671 407 441 "I-75" 13.621 70
+672 434 442 "I-94" 2.679 70
+673 436 443 "Route 43" 16.178 50
+674 444 437 "I-96" 15.050 70
+675 430 444 "I-496" 3.534 70
+676 443 445 "Route 43, Route 50" 1.333 50
+677 406 445 "Route 66" 8.777 50
+678 446 441 "I-696" 1.507 70
+679 411 446 "Woodward" 10.835 35
+680 420 445 "Route 50" 22.001 50
+681 447 442 "Route 102" 2.759 50
+682 447 435 "Gratiot" 2.890 35
+683 448 438 "I-69, I-96" 2.012 70
+684 412 449 "Telegraph Rd" 7.822 40
+685 450 446 "I-696" 6.020 70
+686 449 450 "I-696" 1.119 70
+687 451 447 "Route 102" 2.856 50
+688 451 439 "Van Dyke" 2.326 35
+689 444 452 "I-96" 2.583 70
+690 431 452 "Cedar St" 4.617 40
+691 453 448 "I-96" 1.523 70
+692 432 454 "Martin Luther King" 4.605 40
+693 455 451 "Route 102" 3.523 50
+694 441 455 "I-75" 2.432 70
+695 454 452 "I-96" 2.618 70
+696 456 455 "8 Mile Road" 1.683 50
+697 456 446 "Woodward" 2.224 35
+698 454 453 "I-96" 3.641 70
+699 445 457 "Route 43, Route 66" 2.222 50
+700 458 450 "Route 10" 3.018 50
+701 459 449 "I-696" 7.975 70
+702 460 456 "8 Mile Road" 4.221 50
+703 458 460 "Route 10" 0.738 50
+704 461 460 "8 Mile Road" 0.445 50
+705 461 458 "Route 39" 0.535 50
+706 462 459 "I-96" 16.988 70
+707 426 462 "US-23" 7.696 50
+708 440 462 "I-96" 14.140 70
+709 463 453 "" 2.128 50
+710 463 448 "I-69" 2.917 70
+711 464 461 "8 Mile Road" 3.016 50
+712 449 464 "Telegraph Rd" 3.153 35
+713 465 464 "8 Mile Road" 2.732 40
+714 459 465 "Grand River" 6.076 45
+715 466 428 "I-196" 12.644 70
+716 442 467 "I-94" 6.281 70
+717 467 447 "Gratiot" 4.241 35
+718 468 466 "Business I-196" 0.792 70
+719 468 428 "" 12.643 50
+720 464 469 "Telegraph Rd" 1.414 25
+721 465 469 "Grand River" 3.007 45
+722 470 467 "I-94" 0.983 70
+723 470 451 "Van Dyke" 4.280 35
+724 444 471 "US-127" 6.260 50
+725 437 472 "Route 52" 7.687 50
+726 473 461 "Route 39" 3.249 50
+727 469 473 "Grand River" 3.710 35
+728 474 468 "Business I-196" 4.786 70
+729 422 474 "US-31" 13.135 50
+730 475 470 "I-94" 2.141 70
+731 455 475 "I-75" 5.828 70
+732 473 476 "Grand River" 2.463 35
+733 479 475 "I-94" 1.182 70
+734 456 490 "Woodward" 9.272 35
+735 469 478 "Telegraph Rd" 2.360 25
+736 471 472 "Route 36" 14.780 50
+737 479 477 "???" 1000.491 70
+738 460 479 "Route 10" 9.728 50
+739 474 480 "Business I-196" 2.087 45
+740 481 476 "I-96" 2.241 70
+741 473 481 "Route 39" 1.698 50
+742 478 481 "I-96" 3.282 70
+743 482 467 "Route 3" 3.962 50
+744 475 482 "I-75" 1.915 70
+745 483 482 "I-75" 0.501 70
+746 477 483 "Route 1" 1000.616 50
+747 484 478 "I-96" 8.036 70
+748 459 484 "I-96, I-275" 5.892 70
+749 472 485 "Route 36, Route 52" 2.578 50
+750 462 486 "US-23" 5.427 50
+751 487 483 "I-75" 0.610 70
+752 479 487 "Route 10" 1.278 50
+753 488 479 "I-94" 1.742 70
+754 476 488 "I-96" 5.033 70
+755 489 474 "US-31" 2.364 50
+756 480 489 "Route 40" 1.439 50
+757 490 482 "I-375" 0.968 35
+758 483 490 "Route 1" 900.909 50
+759 487 490 "Route 10" 1.407 35
+760 491 487 "I-75" 1.361 70
+761 488 491 "I-96" 1.540 70
+762 492 457 "Route 43" 15.427 50
+763 489 493 "US-31" 1.475 50
+764 480 493 "Business I-196" 1.959 70
+765 494 466 "I-196" 7.068 70
+766 489 494 "Route 40" 1.628 50
+767 495 463 "I-69" 8.838 70
+768 495 463 "" 8.579 50
+769 416 496 "Route 37" 24.338 50
+770 497 495 "I-69" 0.268 70
+771 496 492 "Route 37, Route 43" 2.700 50
+772 488 498 "I-94" 2.826 70
+773 486 499 "Route 36" 18.160 50
+774 499 485 "Route 36" 6.901 50
+775 500 498 "Route 153" 3.141 50
+776 481 500 "Southfield Hwy" 3.344 50
+777 497 501 "Business I-69" 1.185 70
+778 501 443 "Route 50" 17.721 50
+779 502 494 "I-196" 3.941 70
+780 493 502 "US-31" 2.030 50
+781 457 503 "Route 66" 9.213 50
+782 504 497 "I-69" 1.447 70
+783 492 503 "Route 79" 11.285 50
+784 505 500 "Route 153" 2.953 45
+785 478 505 "US-24" 4.505 50
+786 506 504 "Route 50" 0.856 50
+787 501 506 "Route 50" 0.629 45
+788 507 498 "Michigan Ave" 3.280 35
+789 507 500 "Route 39" 1.070 50
+790 499 508 "Route 106" 5.027 50
+791 485 508 "Route 52" 4.773 50
+792 454 509 "Route 99" 11.786 50
+793 504 509 "Route 50" 8.968 50
+794 510 501 "Route 79" 13.233 50
+795 503 510 "Route 66, Route 79" 1.794 50
+796 508 511 "Route 52, Route 106" 0.566 50
+797 512 505 "Route 153" 7.935 50
+798 484 512 "I-275" 4.978 70
+799 513 507 "Michigan Ave" 3.024 45
+800 505 513 "US-24" 1.731 50
+801 491 514 "I-75" 5.254 70
+802 515 504 "I-69" 3.131 70
+803 506 515 "Business I-69" 2.895 70
+804 498 516 "I-94" 5.467 70
+805 507 516 "Route 39" 3.452 50
+806 517 512 "Route 153" 10.318 50
+807 517 484 "Route 14" 11.674 50
+808 518 516 "I-94" 2.448 70
+809 513 518 "US-24" 2.471 50
+810 519 514 "I-75" 2.597 70
+811 516 519 "Route 39" 2.317 50
+812 520 514 "Route 85" 2.387 50
+813 520 519 "" 0.400 50
+814 521 513 "Michigan Ave" 7.849 35
+815 512 521 "I-275" 2.918 70
+816 522 517 "Route 14" 3.037 50
+817 523 522 "US-23" 2.514 50
+818 486 523 "US-23" 8.853 50
+819 523 524 "Main Street" 1.703 25
+820 509 525 "Route 50, Route 99" 6.168 50
+821 521 526 "Michigan Ave" 5.837 35
+822 494 527 "Route 40" 12.459 50
+823 528 524 "Main Street" 1.229 25
+824 524 529 "Route 14" 3.737 50
+825 530 518 "I-94" 8.266 70
+826 521 530 "I-275" 4.033 70
+827 531 528 "Jackson St" 1.946 45
+828 529 531 "I-94" 1.172 70
+829 401 532 "US-131" 30.229 50
+830 518 533 "US-24" 5.104 50
+831 522 534 "US-23" 4.774 50
+832 528 534 "Wasthenaw" 4.000 35
+833 519 535 "I-75" 5.464 70
+834 535 533 "US-24" 1.245 50
+835 536 526 "Business US-12" 4.376 40
+836 534 536 "Route 17" 3.724 50
+837 537 515 "I-69" 9.008 70
+838 538 526 "US-12" 3.261 50
+839 539 529 "I-94" 11.404 70
+840 511 539 "Route 52" 13.766 50
+841 540 527 "Route 89" 13.988 50
+842 502 540 "I-196" 11.000 70
+843 538 530 "I-94" 8.269 70
+844 541 538 "I-94" 1.774 70
+845 541 536 "Business US-12" 0.854 40
+846 535 542 "I-75" 1.668 70
+847 543 541 "I-94" 1.939 70
+848 544 532 "Route 222" 9.996 50
+849 527 544 "Route 40, Route 89" 6.382 50
+850 545 543 "I-94" 1.687 70
+851 534 545 "US-23" 1.952 50
+852 531 545 "I-94" 7.338 70
+853 546 543 "US-12" 2.130 50
+854 546 545 "US-23" 1.550 50
+855 537 547 "Route 78" 9.104 50
+856 510 547 "Route 66" 12.350 50
+857 548 542 "I-75" 2.318 70
+858 533 548 "US-24" 3.992 50
+859 549 539 "I-94" 15.505 70
+860 471 550 "US-127" 21.239 50
+861 550 525 "Route 50" 15.072 50
+862 551 549 "I-94" 1.813 70
+863 532 552 "US-131" 6.126 50
+864 553 551 "I-94" 2.169 70
+865 553 511 "Route 106" 19.174 50
+866 544 552 "Route 89" 12.000 50
+867 554 553 "I-94" 1.650 70
+868 550 554 "US-127, Route 50" 1.005 50
+869 555 554 "I-94" 2.049 70
+870 556 549 "Business I-94" 2.378 70
+871 551 556 "US-127" 1.288 50
+872 520 557 "Route 85" 12.562 50
+873 542 557 "I-75" 5.372 70
+874 558 556 "Michigan Ave" 2.261 35
+875 558 553 "Route 106" 1.759 50
+876 559 496 "Route 43" 20.395 50
+877 552 559 "Route 89" 11.749 45
+878 560 558 "Michigan Ave" 1.163 35
+879 560 554 "Route 50" 2.219 40
+880 555 561 "Route 60" 1.638 45
+881 561 560 "Michigan Ave" 2.748 35
+882 492 562 "Route 37" 21.321 50
+883 563 562 "Route 89" 12.300 50
+884 559 563 "Route 43, Route 89" 1.068 50
+885 564 555 "I-94" 11.889 70
+886 525 564 "Route 99" 12.392 45
+887 565 564 "I-94" 2.650 70
+888 566 561 "Route 60" 1.804 50
+889 537 567 "I-69" 9.766 70
+890 567 565 "I-94" 12.518 70
+891 547 568 "Route 66" 7.153 50
+892 569 568 "Route 96" 0.825 45
+893 562 569 "Route 37" 2.404 50
+894 570 556 "US-127" 4.028 50
+895 558 570 "Route 50" 3.947 40
+896 571 569 "Route 96" 2.989 45
+897 564 572 "Route 99" 2.970 35
+898 572 565 "Business I-94" 1.288 70
+899 573 567 "I-94" 4.738 70
+900 568 573 "Business I-94" 5.245 70
+901 570 574 "US-127, Route 50" 0.408 50
+902 575 548 "US-24" 9.228 45
+903 530 575 "I-275" 15.844 70
+904 576 573 "I-94" 5.087 70
+905 568 576 "I-194, Route 66" 3.322 70
+906 540 577 "I-196, US-31" 13.510 70
+907 578 579 "Business US-131" 3.406 40
+908 552 578 "US-131" 8.499 50
+909 557 580 "I-75" 7.560 70
+910 575 580 "I-275" 1.950 70
+911 581 577 "Business I-196" 0.983 70
+912 582 576 "I-94" 5.934 70
+913 571 582 "Business I-94" 4.014 70
+914 583 581 "Business I-196, Route 140" 0.851 35
+915 577 590 "I-196, US-31" 2.799 70
+916 593 583 "Route 43" 30.165 45
+917 579 585 "Business US-131" 2.911 40
+918 586 563 "Route 43" 8.828 50
+919 585 586 "Route 43" 0.653 50
+920 587 571 "Route 96" 16.544 50
+921 586 587 "Business I-94, Route 96" 1.369 45
+922 588 546 "US-12" 19.872 50
+923 539 588 "Route 52" 16.988 50
+924 585 589 "W Main Street" 4.019 35
+925 578 589 "US-131" 2.240 50
+926 584 590 "????????" 1.353 70
+927 590 583 "Business I-196, Route 140" 1.791 50
+928 591 582 "I-94" 11.502 70
+929 587 591 "Business I-94" 2.228 70
+930 592 566 "Route 60" 15.369 50
+931 572 592 "Route 99" 6.101 50
+932 589 593 "Route 43" 11.007 50
+933 544 593 "Route 40" 16.276 50
+934 594 585 "Business I-94, Business US-131" 3.978 70
+935 589 594 "US-131" 2.134 50
+936 595 592 "Route 60, Route 99" 3.025 50
+937 596 588 "US-12" 10.861 50
+938 574 596 "Route 50" 14.114 50
+939 593 584 "???????" 21.269 50
+940 597 591 "I-94" 6.854 70
+941 594 597 "Business I-94, US-131" 2.203 70
+942 546 598 "US-23" 16.897 50
+943 580 599 "I-75" 6.272 70
+944 600 575 "US-24" 7.685 50
+945 598 600 "Route 50" 13.669 50
+946 601 598 "Route 50" 17.596 50
+947 588 601 "Route 52" 4.249 45
+948 596 601 "Route 50" 11.846 50
+949 600 599 "Route 50" 3.301 50
+950 602 596 "US-12" 7.342 50
+951 574 602 "US-127" 10.103 50
+952 602 603 "US-127" 1.180 50
+953 604 595 "Route 60" 10.796 50
+954 567 604 "I-69, US-27" 13.349 70
+955 605 597 "I-94" 13.066 70
+956 593 605 "Route 40" 6.639 50
+957 595 606 "Route 99" 7.963 50
+958 607 605 "I-94" 4.364 70
+959 597 608 "US-131" 6.086 50
+960 590 609 "I-196, US-31" 10.382 70
+961 610 601 "Route 52" 7.621 50
+962 611 610 "US-223" 1.819 35
+963 612 604 "Route 60" 12.389 50
+964 576 612 "Route 66" 14.927 50
+965 603 611 "US-223" 17.872 50
+966 602 613 "US-12" 17.379 50
+967 606 613 "Route 99" 6.998 50
+968 611 614 "US-223" 1.363 40
+969 610 615 "Route 52" 1.776 30
+970 614 615 "US-223" 1.057 45
+971 616 607 "I-94" 15.142 70
+972 616 590 "Route 140" 13.409 45
+973 613 617 "US-12" 5.185 50
+974 617 606 "Route 49" 6.228 45
+975 598 618 "US-23" 12.361 50
+976 619 618 "US-223" 3.555 50
+977 615 619 "US-223" 15.906 50
+978 620 612 "Route 60, Route 66" 9.985 50
+979 621 616 "I-94" 7.151 70
+980 609 621 "I-196, US-31" 7.269 70
+981 599 622 "I-75" 14.233 70
+982 617 623 "US-12" 10.358 50
+983 604 623 "I-69, US-27" 11.993 70
+984 624 614 "Route 34" 17.930 50
+985 603 624 "US-127" 12.695 50
+986 613 625 "Route 99" 10.262 50
+987 621 626 "I-94" 0.898 70
+988 600 627 "US-24" 14.732 50
+989 628 623 "Business I-69, US-12" 1.680 70
+990 628 629 "US-12" 2.395 50
+991 630 626 "Business I-94" 2.517 70
+992 625 624 "Route 34" 10.312 50
+993 618 631 "US-23" 4.450 45
+994 619 632 "" 6.067 50
+995 633 630 "Business I-94" 2.603 70
+996 609 633 "Route 63" 10.889 50
+997 623 634 "I-69, US-27" 2.665 70
+998 634 628 "Business I-69" 2.332 70
+999 633 635 "Route 63" 0.902 45
+1000 608 636 "US-131" 12.142 50
+1001 637 629 "Route 86" 19.301 50
+1002 620 637 "Route 66" 4.745 50
+1003 626 638 "I-94" 4.664 70
+1004 638 630 "Route 139" 3.614 50
+1005 636 639 "US-131" 1.468 50
+1006 640 638 "I-94" 1.131 70
+1007 635 640 "Route 63" 2.955 50
+1008 641 620 "Route 60" 13.458 50
+1009 636 641 "Business US-131" 1.666 40
+1010 639 641 "Business US-131, Route 60" 1.190 40
+1011 637 642 "Route 66, Route 86" 1.602 50
+1012 643 615 "Route 52" 11.457 50
+1013 644 638 "US-31, Route 139" 2.045 50
+1014 640 644 "Route 63" 1.689 50
+1015 641 642 "Route 86" 12.351 50
+1016 640 645 "I-94" 3.155 70
+1017 635 645 "Business I-94" 4.404 70
+1018 639 646 "US-131, Route 60" 1.822 45
+1019 607 647 "Route 51" 21.246 50
+1020 648 646 "Route 60" 7.801 50
+1021 605 648 "Route 40" 22.424 50
+1022 624 649 "US-127" 10.117 50
+1023 644 650 "US-31" 5.335 50
+1024 648 651 "Route 60" 11.258 50
+1025 625 652 "Route 99" 12.429 50
+1026 653 651 "Route 60, Route 62" 1.017 50
+1027 634 654 "I-69, US-27" 10.143 70
+1028 629 655 "US-12" 22.728 50
+1029 642 655 "Route 66" 8.296 50
+1030 656 655 "US-12, Route 66" 0.802 50
+1031 657 617 "Route 49" 18.500 50
+1032 658 656 "US-12" 11.913 50
+1033 646 658 "US-131" 9.133 50
+1034 650 659 "Alternate US-31" 9.074 50
+1035 656 660 "Route 66" 2.460 50
+1036 661 658 "US-12" 4.878 45
+1037 662 659 "US-31" 0.583 50
+1038 662 650 "US-31" 8.688 45
+1039 648 663 "Route 40" 6.976 45
+1040 663 661 "US-12" 2.126 50
+1041 616 664 "Route 140" 22.657 50
+1042 659 664 "" 1.488 50
+1043 658 665 "US-131" 2.830 50
+1044 653 666 "Route 60" 11.460 50
+1045 667 647 "Route 51" 13.760 50
+1046 664 667 "Route 140" 2.494 50
+1047 667 666 "Business Route 60" 2.526 40
+1048 661 668 "Route 103" 3.022 50
+1049 669 653 "Route 62" 8.355 50
+1050 670 666 "Route 60" 1.676 50
+1051 667 670 "Business US-12" 1.919 40
+1052 669 671 "US-12" 6.547 50
+1053 671 663 "US-12" 9.705 50
+1054 672 670 "US-12" 1.303 50
+1055 667 672 "US-33" 1.831 50
+1056 673 672 "US-12, Business US-31" 2.768 40
+1057 673 667 "Business US-12" 3.046 40
+1058 674 673 "US-12, Business US-31" 0.370 40
+1059 674 662 "US-31" 4.525 45
+1060 675 671 "Route 205" 1.024 50
+1061 670 669 "US-12" 7.747 50
+1062 676 669 "Route 62" 2.586 45
+1063 672 677 "US-33, Business US-31" 2.873 40
+1064 678 674 "US-31" 3.075 50
+1065 679 674 "US-12" 21.150 50
+1066 645 679 "I-94" 20.456 70
+1067 679 680 "I-94" 2.214 70
+1068 681 680 "Route 239" 1.011 50
+1069 680 682 "I-94" 1.472 70
+1070 679 683 "US-12" 5.381 50
+1071 5 684 "US-41, Route 26" 1.376 50
+1072 684 10 "US-41, Route 26" 0.886 50
+1073 37 685 "Route 134" 18.926 50
+1074 52 57 "I-75" 5.569 70
+1075 84 99 "US-31" 11.821 45
+1076 85 116 "Route 35" 48.561 50
+1077 108 125 "US-31" 24.807 50
+1078 150 186 "Route 22" 28.283 50
+1079 300 686 "I-94" 0.478 70
+1080 347 359 "US-31" 2.074 50
+1081 347 358 "Route 120" 4.057 50
+1082 651 647 "Route 62" 7.529 50
+1083 687 64 "" 10.153 50
+1084 240 237 "Business US-10, Route 20" 4.118 40
+1085 689 408 "Fulton" 1 30
+1086 689 401 "Fulton" .7 30
+1087 690 336 "Corunna Rd" 5.2 30
+1088 690 335 "Corunna Rd" 7.2 30
+1089 56 66 "US-23" 16000.006 50
+1090 122 694 "Route 109" 3.2 40
+1091 128 694 "Route 109" 3.2 40
+1092 252 695 "Charles Mears Rd" 5 20
+1093 696 462 "Grand River Ave" 3 35
+1094 697 508 "Route 106" 12.5 45
+1095 698 699 "Route 123" 14.1 45
+1096 699 20 "Route 123" 28.565 45
+1097 699 700 "Park Rd" 1 20

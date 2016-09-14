@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Project 3 FAQ</title>
+
+    <style type="text/css">
+
+div{
+      margin: 10px;
+      padding: 5px;
+}
+
+#question{
+  background-color: lightblue;
+  font-family: arial, sans-serif;
+  border: 2px solid black;
+     
+      padding: 5px;
+
+}
+
+#answer{
+  background-color: lightgrey;
+  font-family: arial, sans-serif;
+  border: 2px solid black;
+}
+
+</style>
+  </head>
+
+  <body>
+    <h1>Project 4 FAQ</h1>
+
+    <div id="question">
+      <h3>Question:</h3>
+      I was wondering if we were allowed to change the class Node.
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+      <p>If you take a closer look at the project description, in the last paragraph I say:  "As always you may not change the signatures of the public methods, the node class, or the way in which the tree class interacts with the rest of the program."  So the answer is no, you may not modify the node class.  If you did change the node class you would run the risk of breaking another part of the code that is not a part of the project.</p>
+    </div>
+    <hr>
+    <div id="question">
+      <h3>Question:</h3>
+      I see that there is a m_active for each node, is this so that we may use lazy deletion?
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+      You must actually delete the nodes from memory and update the tree.
+    </div>
+    <hr>
+    <div id="question">
+      <h3>Question:</h3>
+How should we handle inserting a node that is already in the tree.
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+Tree's only hold one copy of each item.
+    </div>
+    <hr>
+    <div id="question">
+      <h3>Question:</h3>
+Can we add a pointer to the parent node in the node class? 
+
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+No, but you can implement functions in the private space, and you can pass those functions pointers, and pointers by reference.  That would be a very elegant way to implement delete.
+    </div>
+    <hr>
+    <div id="question">
+      <h3>Question:</h3>
+For number 1 on the written portion what values should we use for the heights?
+
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+Once you've compiled your completed project, load the entire data set and use the values it gives you for the height.
+    </div>
+    <hr>
+
+    <address><a href="mailto:covertar@cse.msu.edu"></a></address>
+  </body>
+</html>

@@ -1,0 +1,18 @@
+trip
+E L
+B C
+trip
+C H
+J
+trip
+A A
+F
+quicktrip
+E L
+B C
+quicktrip
+C H
+J
+quicktrip
+A A
+F

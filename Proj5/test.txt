@@ -1,0 +1,10 @@
+movie-actors
+Star Wars
+actor-movies
+Guinness, Alec
+movie-actors
+Lawrence of Arabia
+delete-actor
+Guinness, Alec
+movie-actors
+Star Wars

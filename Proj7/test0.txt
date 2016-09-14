@@ -1,0 +1,18 @@
+VERTICES
+0 "E L" TOWN
+1 "B C" TOWN
+2 "J" TOWN
+3 "C H" TOWN
+4 "A A" TOWN
+5 "D" TOWN
+6 "F" TOWN
+7 "CA" JUNCTION
+EDGES
+0 1 2 "I 94" 30 2.5
+1 2 3 "I 94" 30 2.5
+2 3 4 "I 94" 15 2.5
+3 4 5 "I 94" 5 2.5
+4 4 6 "US 23" 20 2.0
+5 6 0 "I 69" 100 2.5
+6 0 7 "I 69" 30 2.5
+7 7 1 "M 76" 20 2.0 

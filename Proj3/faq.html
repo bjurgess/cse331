@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Project 3 FAQ</title>
+
+    <style type="text/css">
+
+div{
+      margin: 10px;
+      padding: 5px;
+}
+
+#question{
+  background-color: lightblue;
+  font-family: arial, sans-serif;
+  border: 2px solid black;
+     
+      padding: 5px;
+
+}
+
+#answer{
+  background-color: lightgrey;
+  font-family: arial, sans-serif;
+  border: 2px solid black;
+}
+
+</style>
+  </head>
+
+  <body>
+    <h1>Project 3 FAQ</h1>
+
+    <div id="question">
+      <h3>Question:</h3>
+      Do I need to make the list circular?  May I use a tail node?
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+      <p>To the first part of the question, no.  I wanted to leave you a fair amount of 
+	fleaxibilty in how you implemented your lists, so weather or not it is cirular is up to you.
+	However, making it circular will make it much easier to to solve the Josepus permutation.</p>
+      <p>The answer to this depends on weather or not your list is cicular.  If it is circular, then 
+	the head and tail nodes would always be pointing to one another.  That's a little bit reduntent,
+	so if your list is circular, don't bother with a tail node.  On the other hand, if you elected
+	not to make the list circular, than you should use a tail node.</p>
+      <p>Also, if you do use a tail node, follow the same guidelines I gave you for the head node, in 
+	the programming notes section of the project description.</p>
+    </div>
+    <hr>
+    <div id="question">
+      <h3>Question:</h3>
+      How do I implement reverse without physically reversing all of the links?
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+      <p>
+	Well, here's a hint: The only way a user can interate a pointer is with the Next method.  So, you can just keep
+	track of when the list is reversed and adjust your logic accordingly.  Also remember that when you reverse the
+	list the push and pop operations should also be reversed. For example: PopFront becomes PopBack, when the list is reversed.
+      </p>
+    </div>
+    <hr>
+    <div id="question">
+      <h3>Question:</h3>
+      Visual studio throws an error saying that it can't find 'unistd.h'
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+      <p>There's something wrong with preprocessor directives in random.h.  If you are using visual studio make the following changes to them:</p>
+      //#ifdef VISUAL_STUDIO<br>#include &#60;process.h&#62;<br>//#else<br>//#include &#60;unistd.h&#62;<br>//#endif <br>
+      <p>
+	This will still throw a warning, but it should compile just fine under visual studio.  When you test your code on adriatic, make sure 
+	you uncomment the preprocessor directives.
+      </p>
+    </div>
+    <hr>
+    <div id="question">
+      <h3>Question:</h3>
+      Ok, lets say you declare a linked list but do not add any items to it. Do we want functions such as beginning and end to return null? For the find function if the element does not exist should that also return null?
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+      <p>
+	If the only thing in the list is Head (or tail) nodes, then you should return null from any method that returns a pointer into the list. 
+	Your linked list should never return a poitner from the head or tail nodes.
+      </p>
+
+      <p>If find fails, than return null.</p>
+    </div>
+    <hr>
+    <div id="question">
+      <h3>Question:</h3>
+      Does the copy constructor need to be a deep  one, or can it just pass the addresses of the existing elements?
+    </div>
+    <div id="answer">
+      <h3>Answer:</h3>
+      <p>
+	The copy constructor must do a deep copy.  No two linked lists should use the same nodes.
+      </p>
+    </div>
+    <hr>
+
+    <address><a href="mailto:covertar@cse.msu.edu"></a></address>
+  </body>
+</html>

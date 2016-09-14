@@ -1,0 +1,728 @@
+CRC: 0xE68BBBBA  File: actors.list  Date: Fri Aug 19 01:00:00 2005
+
+Copyright 1990-2005 The Internet Movie Database, Inc.  All rights reserved. 
+
+COPYING POLICY: Internet Movie Database (IMDb)
+==============================================
+
+    This is a  database  of  movie  related  information  compiled  by
+    Internet  Movie  Database  Ltd (IMDb). While every effort has been
+    made to  ensure  the  accuracy  of  the  database  IMDb  gives  no
+    warranty  as  to  the accuracy of the information contained in the
+    database.  IMDb  reserves  the  right  to   withdraw   or   delete
+    information at any time. 
+       
+    This service is provided for the information of users only. It  is
+    not   provided  with  the  intention  that  users  rely  upon  the
+    information for any purposes. Accordingly,  IMDb  shall  under  no
+    circumstances  be liable for any loss or damage, including but not
+    limited to loss of profits, goodwill or indirect or  consequential
+    loss   arising   out   of  any  use  of  or  inaccuracies  in  the
+    information. All warranties express or  implied  are  excluded  to
+    the fullest extent permissible by law. 
+       
+    All information in this file  is  Copyright  2005  Internet  Movie
+    Database  Limited.  Reproduction,  distribution or transmission by
+    any means without the prior permission of IMDb is prohibited.  All
+    rights reserved. 
+
+    For further information contact <licensing@imdb.com>
+       
+         -------------------------------------------------------
+   
+    All data and software released by Internet Movie Database  Ltd  is
+    freely  available  to  anyone  within certain limitations. You are
+    encouraged to quote subsets of the database  in  USENET  articles,
+    movie  related  FAQs,  magazine  articles etc. We do ask, however,
+    that you make reference to the source of the data  and  provide  a
+    pointer to the database for the benefit of the reader. 
+       
+    Permission is granted  by  the  copyright  holder  to  allow  free
+    distribution  of  this  file  and  any  other part of the Internet
+    Movie  Database  in  an  ELECTRONIC  FORM  ONLY,   providing   the
+    following conditions are met: 
+       
+         1. NO FEE OF ANY KIND, however indirect, will be  charged
+            for  its  distribution.  If  this file is being stored
+            for  later  distribution  to  anyone   that   can   be
+            construed   as   a   customer   of  yourself  or  your
+            organisation YOU MUST contact Internet Movie  Database
+            Ltd for permission. 
+            
+         2. Each  of  the  database  files  may   be   distributed
+            individually  but  only  in an unaltered form. All the
+            header and trailer information, including this  notice
+            and  the  details  on how to access the database, must
+            remain intact. 
+            
+         3. Specifically the files may NOT be  used  to  construct
+            any  kind  of  on-line database (except for individual
+            personal use). Clearance for  ALL  such  on-line  data
+            resources   must  be  requested  from  Internet  Movie
+            Database Ltd 
+            
+         4. In addition, copies of  the  Internet  Movie  Database
+            frequently  asked  questions  list and additions guide
+            must be made available in the same area / by the  same
+            method as the other database files. 
+
+         5. CD-ROM  distribution  is  prohibited  without  written
+            permission from the Internet Movie Database Ltd 
+            
+    Distribution by e-mail, BBS and  Internet  systems  is  positively
+    encouraged within these limitations. 
+       
+    The files and software which make up the  movie  database  may  be
+    uploaded  to  commercial  BBS  systems  providing  that  the above
+    conditions are met and no *additional* fees are applied above  the
+    standard connect time or downloading charges. 
+
+    For further information contact <licensing@imdb.com>
+
+         -------------------------------------------------------
+
+Welcome to the latest version of the actors list. 
+
+Please feel free to submit entries for actors not already on the list,
+or new entries for existing actors. 
+
+This list is managed by Giancarlo Cairella <actresses@imdb.com>; from
+1990-1998 it was managed by Col Needham <col@imdb.com>.
+
+If you have any additions or corrections please respond by e-mail only. The 
+section at the end of the list contains details on the formats to use. The
+copying policy is also described at the end of the list.
+
+  
+The Internet Movie Database consists of the following lists:               
+             
+ List                 | Maintained by                             | Updated
+ ---------------------|-------------------------------------------|----------
+ Actors               | Giancarlo Cairella http://imdb.com/contact| 24-06-05
+ Actresses            | Giancarlo Cairella http://imdb.com/contact| 24-06-05
+ Alternative Names    | Duncan Smith http://imdb.com/contact/     | 24-06-05
+ Alternative Titles   | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Alternative Versions | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Biographies          | Geoff Leonard http://imdb.com/contact/    | 24-06-05
+ Business             | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Cast Completion      | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Certificates         | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Cinematographers     | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Color Information    | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Composers            | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Costume Designers    | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Countries            | Peter Simeon http://imdb.com/contact/     | 17-06-05
+ Crazy Credits        | Mark Bailey http://imdb.com/contact/      | 17-06-05
+ Crew Completion      | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Directors            | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Distributors         | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Editors              | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Genres               | Jake Dias http://imdb.com/contact/        | 24-06-05
+ Goofs                | Col Needham http://imdb.com/contact/      | 24-06-05
+ Keywords             | Jake Dias http://imdb.com/contact/        | 24-06-05
+ Languages            | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Laser Discs          | Peter Simeon http://imdb.com/contact/     | 07-21/00
+ Literature           | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Locations            | Mark Bailey http://imdb.com/contact/      | 17-06-05
+ MPAA Ratings Reasons | Jon Reeves http://imdb.com/contact/       | 17-06-05
+ Misc. Companies      | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Misc. Filmography    | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Movie Links          | Ron Higgins http://imdb.com/contact/      | 24-06-05
+ Movies               | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Plot Summaries       | Colin Tinto http://imdb.com/contact/      | 24-06-05
+ Producers            | Andre Bernhardt http://imdb.com/contact/  | 17-06-05
+ Production Companies | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Production Designers | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Quotes               | Col Needham http://imdb.com/contact/	  | 24-06-05
+ Ratings              | IMDb Helpdesk http://imdb.com/contact/    | 24-06-05
+ Release Dates        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Running Times        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ SFX Companies        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Sound Mix            | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Soundtracks          | Ron Higgins http://imdb.com/contact/      | 24-06-05
+ Tag Lines            | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Technical Info       | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Trivia               | Tim Norris http://imdb.com/contact/	  | 24-06-05
+ Writers              | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ ----------------------------------------------------------------------------
+  								    dd/mm/yy
+  
+SEARCHING THE DATABASE
+======================
+
+The movie database frequently asked questions list contains more information
+on the whole movie database project. For a copy send an e-mail message with
+the subject "HELP FAQ" to <mail-server@imdb.com>. Here is a summary of the
+ways to access the database:
+
+(1) WWW interface
+
+    The Internet Movie Database is available over the WWW. The following sites
+    are owned and operated by or for the IMDb:
+
+        http://us.imdb.com/                                 [USA]
+        http://uk.imdb.com/                                 [UK]
+
+    News and pointers to all IMDb sites are available at IMDb HQ:
+
+        http://www.imdb.com/
+
+(2) e-mail interface
+  
+    For details send a message with the subject HELP to <mail-server@imdb.com>
+
+(3) local installation (Unix/Amiga)
+
+    The movie database package enables you to install the data locally and
+    provides a variety of search tools. It is available via anonymous FTP:
+
+ uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/moviedb-3.4a.tar.gz
+
+ ftp.funet.fi  in  /pub/culture/tv+film/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.fu-berlin.de  in  /pub/misc/movies/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.sunet.se  in  /pub/tv+movies/imdb/tools/moviedb-3.4a.tar.gz
+
+    see the README file in the same directories for more information. The 
+    Amiga version is in the file imdb3_5_Amiga.lha
+
+(4) local installation (OS/2)
+
+    The Alternative Movie Database package provides a graphical and text
+    based interface for OS/2:
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/os2/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/os2/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/os2/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/os2/
+
+(5) local installation (Windows 9x/Windows NT)
+
+    The Alternative Movie Database package is also available as a text only
+    interface for Win-32 systems (9x/NT):
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/w32/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/w32/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/w32/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/w32/
+
+
+
+SEARCHING THE DATABASE
+======================
+
+The movie database frequently asked questions list contains more information
+on the whole movie database project. For a copy send an e-mail message with
+the subject "HELP FAQ" to <mail-server@imdb.com>. Here is a summary of the
+ways to access the database:
+
+(1) WWW interface
+
+    The Internet Movie Database is available over the WWW. The following sites
+    are owned and operated by or for the IMDb:
+
+        http://us.imdb.com/                                 [USA]
+        http://uk.imdb.com/                                 [UK]
+
+    News and pointers to all IMDb sites are available at IMDb HQ:
+
+        http://www.imdb.com/
+
+(2) e-mail interface
+  
+    For details send a message with the subject HELP to <mail-server@imdb.com>
+
+(3) local installation (Unix/Amiga)
+
+    The movie database package enables you to install the data locally and
+    provides a variety of search tools. It is available via anonymous FTP:
+
+ uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/moviedb-3.4a.tar.gz
+
+ ftp.funet.fi  in  /pub/culture/tv+film/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.fu-berlin.de  in  /pub/misc/movies/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.sunet.se  in  /pub/tv+movies/imdb/tools/moviedb-3.4a.tar.gz
+
+    see the README file in the same directories for more information. The 
+    Amiga version is in the file imdb3_5_Amiga.lha
+
+(4) local installation (OS/2)
+
+    The Alternative Movie Database package provides a graphical and text
+    based interface for OS/2:
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/os2/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/os2/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/os2/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/os2/
+
+(5) local installation (Windows 9x/Windows NT)
+
+    The Alternative Movie Database package is also available as a text only
+    interface for Win-32 systems (9x/NT):
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/w32/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/w32/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/w32/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/w32/
+
+
+
+
+-----------------------------------------------------------------------------
+RULES:
+1       Movies and recurring TV roles only, no TV guest appearances
+2       Please submit entries in the format outlined at the end of the list
+3       Feel free to submit new actors
+
+"xxxxx"        = a television series
+"xxxxx" (mini) = a television mini-series
+[xxxxx]        = character name
+<xx>           = number to indicate billing position in credits
+(TV)           = TV movie, or made for cable movie
+(V)            = made for video movie (this category does NOT include TV 
+                 episodes repackaged for video, guest appearances in 
+                 variety/comedy specials released on video, or 
+                 self-help/physical fitness videos)
+
+THE ACTORS LIST
+===============
+
+Name			Titles 
+----			------
+'babeepower' Viera, Michael	Rock Steady (2002)  [Stevie]
+			"Lyricist Lounge Show, The" (2000)  [Various/lyricist]
+
+'Chincheta', Eloy	¡Ja me maaten...! (2000)  [Gitano 1]  <20>
+
+'El de Chipiona', Antonio	Guitarra muda, La (1953)  [Himself]
+
+'El Francés', José	Alma gitana (1996)  <45>
+			Premios Amigo 2000 (2000) (TV)  [Himself]
+			Que dis que din, O (2003)  [Himself]
+
+'El Gato', Félix	Pelotazo nacional (1993)  <12>
+			"Querida Concha" (1992)
+			"Uno para todas" (1995)  [Staff Humorist (1996)]  <4>
+
+'El Happy' Lora, Miguel	"Granja tolima, La" (2004)  [Himself]
+
+'El Jalisco', Marcial	Entre las patas de los caballos (2000)  <10>
+
+'El Morito', José	Torrente 2: Misión en Marbella (2001)  [Amigo Cigala #2]  <24>
+
+'El Niño de la Manola', Francisco	Almendros - Plaza nueva -, Los (2000)  [Segundo Cuadro Flamenco 'Tangos Festeros': Guitarrista]
+
+'El Payaso', Víctor	De la calle (2001)  [Chavo Banda Galerias]  <83>
+
+'El Pescaíto', Antonio	Almendros - Plaza nueva -, Los (2000)  [Tercer Cuadro Flamenco 'Soleares': Bailaor]
+
+'El Plojo', Luis	De la calle (2001)  [Froilán plaza del estudiante]  <80>
+
+'el Portugues', Janny	Contrabandista, La (1982)  <22>
+
+'El Rilete', Antonio	Almendros - Plaza nueva -, Los (2000)  [Cuarto Cuadro Flamenco 'Taranta': Palmero]
+
+'El Toro', Baltazar	Operación narcóticos (1991)  [Agente #1]  <20>
+
+'Formiga', Luis Roberto	OP Pro 88 - Barra, Rio (1988)  [Himself]
+
+'Goochi'		Everybody's Business (1993)  [Grandfather]  <1>
+
+'K', Murray the		Beatles at Shea Stadium, The (1966)  [Himself]
+			Beatles: The First U.S. Visit, The (1994) (V)  (archive footage)  [Himself (DJ, New York)]
+			Day the Music Died, The (1977)  [Himself/Disc Jockey]
+			I Wanna Hold Your Hand (1978)  [Himself]  <47>
+			That's the Way of the World (1975)  [Big John]
+			"Beatles Anthology, The" (1995) (mini)  (archive footage) (uncredited)  [Himself]
+
+'Kick Boxer', Néstor	Violencia urbana (1996)  [Montaña]  <21>
+
+'La Chispa', Tony	Caceria de judiciales (1997)  <11>
+			Violencia en la sierra (1995)  [Victoriano]  <4>
+
+'Raff'			Reflections of Evil (2002)  [Real LAPD Officer]  <57>
+
+'Romero', Pollino	Estatua, La (1961)
+
+'t Hoen, Frans		Dorp aan de rivier (1958)  [Dirk Jan]  <15>
+			Zaak M.P., De (1960)  [Hollandse boer]
+
+'t Hoen, Jorrit		"Oog in oog" (1990)  [Oudste zoon (1993)]
+
+'t Hooft, Dick		Moord in extase (1984)  [Officier van Justitie]  <46>
+
+'The Jeweler', Jacob	Def Jam Fight for NY (2004) (VG)  (voice)  [Himself]  <31>
+			State Property (2002)  [Eli]  <53>
+
+'The Religious Nut', Izzy	Twister: A Musical Catastrophe (2000) (V)  [Himself]  <15>
+
+'Ulaleo, Ka'olelo	Pele's Appeal (1990)
+
+'Ô', Oswald		Skate - O Esporte Emoção (1987)  [Himself]
+
+*NSYNC			101 Biggest Celebrity Oops (2004) (TV)  (archive footage)  [Themselves]
+			1998 Billboard Music Awards, The (1998) (TV)  [Themselves]
+			2000 MTV Movie Awards (2000) (TV)  [Themselves]  <39>
+			26th Annual American Music Awards, The (1998) (TV)  [Themselves]
+			28th Annual American Music Awards, The (2001) (TV)  [Themselves - Performers]
+			Bubblegum Babylon (2002) (TV)  [Themselves]
+			L'Oreal Summer Music Mania (1999) (TV)  [Themselves - Performers: 'I Want You Back']
+			MTV Snowed In 2000 (2000) (TV)  [Performers]
+			MTV Video Music Awards 2001 (2001) (TV)  [Themselves - Performers]  <5>
+			MTV Video Music Awards 2002 (2002) (TV)  [Themselves]
+			Summer Music Mania 2000 (2000) (TV)
+			Super Bowl XXXV Halftime Show (2001) (TV)  [Themselves]
+			Teen Choice Awards 2002, The (2002) (TV)  [Presenter]
+			Walt Disney World Very Merry Christmas Parade (1999) (TV)
+
+1, Todd			Tribe Called Quest: The Video Anthology, A (2002) (V)  [Himself (segment "Scenario")]
+			Who's the Man? (1993)  [Shorty]  <10>
+			"Awake on the Wild Side" (1990)
+			"Fade to Black" (1991/II)
+			"Yo! MTV Raps" (1988)  [Himself]
+
+10, Mac			Love Hollywood Style (2005)  [As himself]
+
+104, Dave		Austin Prowler (1999)
+
+11:11, Angel		Big Apple (2001/II)  [Angel]  <2>
+			Young Americans (2004)  [Marcus]
+			Zoolander (2001)  [Funky Loft Guest]  <87>
+
+13, Nick		Live Freaky Die Freaky (2003)  (voice)  [TV Reporter #1]  <1>
+
+187 Blitz		Rest in Peace, Cuervo Jones (2002) (V)
+
+1st German Air Force Band, The	Hamina Tattoo (2004) (TV)  [Themselves]
+
+1st Indian Air Force Band, The	Hamina Tattoo (2004) (TV)  [Themselves]
+
+2 Dope, Shaggy		Backyard Wrestling 2: There Goes the Neighborhood (2004) (VG)  (voice)  [Himself]  <19>
+			Big Money Hustlas (2000) (V)  [Sugar Bear]  <2>
+			Bowling Balls (2004) (V)  [Shaggy]  <2>
+			Juggalo Championshxt Wrestling Volume 1 (2000) (V)  (as Shaggy 2 Dope of Insane Clown Posse)  [Himself]
+			Purple Show, The (2003) (V)  [Himself]
+			Summerslam (1998) (V)  [Himself]
+			WCW Road Wild '99 (1999) (V)  [Himself]
+			"Raw Is War" (1997)  [Himself (1997)]
+			"Sunday Night Heat" (1998)  [Himself (1998-1999)]
+			"WCW Monday Nitro" (1995)  [Himself (1999-2000)]  <90>
+			"WCW Saturday Night" (1991)  [Himself (1998-1999)]
+			"WCW Thunder" (1998)  [Himself (1998-1999)]
+			"WCW Worldwide Wrestling" (1991)  [Himself (1998-1999)]
+
+2 Live Crew		"And You Don't Stop: 30 Years of Hip-Hop" (2004) (mini)  (archive footage)  [Themselves]
+			"I Love the '90s: Part Deux" (2005) (mini)  (archive footage)
+			"Retrosexual: The 80's" (2004) (mini)  (archive footage)  [Themselves]
+
+2, Mode			3000 scénarios contre un virus (1994)  [(segment "Id")]  <82>
+			Just to Get a Rep (2004)  [Himself]
+
+25 Cent			50 Cent: The New Breed (2003) (V)  [Himself]
+
+2Mex			Sad Clown Bad Dub 4 (2003) (V)  [Himself (Mixwell)]
+
+2nd Marine Division Band	Thunder in Carolina (1960)  [Themselves]
+
+2Shae			"Pimp My Ride" (2004)  [Paint & Body - West Coast Customs (2004-)]
+
+2X, Benjamin		Malcolm X: Make It Plain (1994) (TV)  [Himself (Nation of Islam)]  <130>
+
+3 Doors Down		2004 Radio Music Awards (2004) (TV)  [Themselves-Presenter]
+			TMF Awards 2004 (2004) (TV)  [Themselves - Performers]
+			"Experience Live at the Sky Church" (2003)
+
+3 Steps Ahead		Thunderdome a Decade (2002) (V)  (archive footage)  [Himself]
+
+3 Whippets, The		All-Colored Vaudeville Show, An (1935)  [Themselves]  <3>
+
+3000 Boys' Choir, The	Immortal City, The (1954)  [Themselves]  <5>
+
+30lance, Franco		Traviata a luci rosse (2004) (V)
+			Veuve sans pudeur, La (2002) (V)  (as Franco Trentalancia)
+
+31, Articolo		Erba proibita, L' (2002)  <5>
+			Live 8 (2005) (TV)  [Themselves]
+
+33 1/3			Boardinghouse (1982)  [The Band]  <28>
+
+3rd Rail		Bloody Streetz (2003) (V)  [Jah]  <3>
+
+3rd Storee		Honey (2003)  [Themselves]  <46>
+
+4 Out of 5 Doctors	House on Sorority Row, The (1983)  [The Band]  <17>
+
+4-Tay, Rappin'		Girls Gone Wild: Doggy Style (2002) (V)  [Himself]
+			Tupac: Resurrection (2003)  (archive footage)  [Himself]
+			Winner Takes All (1998) (TV)
+
+4-Zone			Beat, The (2003)  [Himself]
+
+40 Drag Queens		Hollywood: The Movie (1996) (V)  [Themselves]
+
+400 Blows		Buddyhead Presents: Punk Is Dead (2005) (V)  [400 Blows]
+
+4D Jones, The		Kes (1969)  <12>
+
+4Peace Ensemble		Live 8 (2005) (TV)  [Themselves - Johannesburg]
+
+5, Master		Changeling (2006)  [Redcap Rumple]
+
+5, Mick			Plainsong (1982)  [Fred Payne]
+
+50 Cent			2003 MTV Movie Awards (2003) (TV)  [Himself - Performer]
+			2003 Radio Music Awards (2003) (TV)  [Himself]
+			3rd Annual BET Awards (2003) (TV)  [Himself]
+			46th Annual Grammy Awards, The (2004) (TV)  [Himself]
+			50 Cent: Bulletproof (2005) (VG)  [50 Cent]
+			50 Cent: The New Breed (2003) (V)  [Himself]  <1>
+			Beef (2003)  [Himself]  <1>
+			Beef 2 (2004)  [Himself]
+			Boogie special: 50 Cent (2003) (TV)  (also archive footage)  [Himself]  <2>
+			Brit Awards 2004 (2004) (TV)  [Winner - International Breakthrough Artist - (1 Brit Award)]  <15>
+			Eminem Presents: The Anger Management Tour (2005) (V)  [Himself]
+			Evolution of Eminem, The (2004) (TV)  (archive footage)  [Himself]
+			Fromage 2003 (2003) (TV)  [Himself]
+			Game: The Documentary - The DVD, The (2005) (V)  [Himself]
+			Get Rich or Die Tryin' (2005)  (as Curtis '50 Cent' Jackson)  <1>
+			Groupie Love (2004) (V)  [Himself]  <1>
+			Hip Hop Babylon 2 (2003) (TV)  (archive footage)  [Himself]
+			Hip Hop Uncensored Vol. 5: The Greatest Shows on Earth (2003) (V)  [Himself]
+			Legend of Zelda: Twilight Princess, The (2005) (VG)  [Epona]
+			Live 8 (2005) (TV)  [Himself]
+			MC: Why We Do It, The (2005) (V)  [Himself]
+			MTV Bash: Carson Daly (2003) (TV)  [Himself]
+			MTV Does Miami (2003) (TV)  [Himself - Performer]
+			MTV Europe Music Awards 2002 (2002) (TV)  (uncredited)  [Himself]
+			MTV Europe Music Awards 2003 (2003) (TV)  (archive footage)  [Himself]
+			MTV Movie Awards 2005 Pre-Show (2005) (TV)  [Himself]
+			MTV Video Music Awards 2003 (2003) (TV)  [Himself/Performer]
+			Shady National Convention, The (2004) (TV)  [Himself]  <4>
+			"And You Don't Stop: 30 Years of Hip-Hop" (2004) (mini)  [Himself]
+			"Fuse 100%" (2004)
+
+52X, James		Malcolm X (1972)  (archive footage) (uncredited)  [Himself]
+
+6-Pack			ID&T Presents the Darkraver (2004) (V)  [Himself]
+
+666, Damian		AWS: A New Beginning (2004) (V)
+
+6995			Let Me Be Your Band (2003)  [Himself]  <4>
+
+6th Earl of Carnarvon, Henry George Alfred Marius Victor Francis Herbert	Margret Dünser, auf der Suche nach den Besonderen (1981) (TV)  (archive footage)  [Himself]  <71>
+
+7, Lucky		Gendernauts (1999)  <15>
+
+7, Marc			Sweet Potato Pie (2004) (V)  [Perry]
+
+8 Von			Men of Valor (2004) (VG)  (voice)  [Black Marine 1]  <26>
+
+84, Equipe		Ragazzi di bandiera gialla, I (1967)
+
+98 Degrees		26th Annual American Music Awards, The (1998) (TV)  [Themselves]
+			28th Annual American Music Awards, The (2001) (TV)  [Themselves - Presenters]
+			Bubblegum Babylon (2002) (TV)  [Themselves]
+			L'Oreal Summer Music Mania (1999) (TV)  [Themselves - Performers: 'The Sweetest Thing']
+			Walt Disney World Very Merry Christmas Parade (1999) (TV)
+
+999			Punk's Not Dead (2005)  [Themselves]
+
+@Mic			Fake Movies (2003) (V)  [Himself]
+			Up Late with Liam (2003) (V)  [Himself]  <2>
+
+A El Rahim, Ahmed	"Obecana zemlja" (2002)  [Andelko Fiolic]  <5>
+			"Vecernja skola: Povratak upisanih" (2005)  [Antimon]  <4>
+
+a zovu ga Elvis, Dragan	Decak iz Junkovca (1995)  [Himself]  <31>
+
+A'Hearn, Brett		Watch the Shadows Dance (1987)  [Karate Contestant]  <19>
+
+a'Hiller, Lejaren	Sleep of Cyma Roget, The (1920)  [Undetermined Role]  <5>
+
+A'Nur, Yussuf Abed	Me'Ahorei Hasoragim (1984)  [Rashid]
+
+A, John			Busty Backdoor Nurses (1996) (V)
+
+A, Yunga		Hei dao (1989)  [Li Xiao]
+
+A-Hito			Miami Shakedown (1993)  [Tennis Trainer]  <23>
+
+A-Man			Go to Hell (1999)  [Himself]
+
+A-Trak			5 Sides of a Coin (2003)  [Himself]
+			Hang the DJ (1998)  [Himself]  <4>
+
+A., Cairns		Patrick (2004)  [Celtic Warrior]
+
+A., Dominique		Peau de cochon (2004)
+
+A., Marko		Blackmen Cruising Crenshaw (1999) (V)
+
+A., Narayana Rao	Vara Vikrayam (1939)  [Ghantayya]  <11>
+
+A., Prasad		Pelli Chesi Choodu (1988)  [RaviKumar]  <8>
+
+A., Robert		Farm Boys (2000) (V)
+
+A., Satyanarayana	Vara Vikrayam (1939)  [Pleader]  <13>
+
+A., Zoltan		Farm Boys (2000) (V)
+
+A.C. (II)		Black Gang Bang 9 (1998) (V)
+
+A.D., Easy		Beat This!: A Hip Hop History (1984) (TV)  [Himself]
+			Wild Style (1982)  [Cold Crush Brothers]
+			"And You Don't Stop: 30 Years of Hip-Hop" (2004) (mini)  (archive footage)  [Himself]
+
+A.D.G.			"Histoires de fiction" (2003)  (as Alain Fournier)  [Himself]
+
+A.G.			Who's the Man? (1993)  [Test Taker No. 3]  <83>
+
+A.J. (I)		1st Annual BET Awards (2001) (TV)  [Himself]  <12>
+			2nd Annual BET Awards (2002) (TV)  [Himself]
+			3rd Annual BET Awards (2003) (TV)  [Himself]
+			BET Comedy Awards (2004) (TV)  [Himself]
+			Drumline (2002)  [BET Announcer #1]  <28>
+			Slip N' Slide: All Star Weekend 2 (2004) (V)  [Himself]
+			"106 & Park Top 10 Live" (2000)  [Host]  <1>
+			"Moolah Beach" (2001)  [Himself - Yellow Team]  <11>
+
+A.J. (II)		Anal Addicts 11 (2003) (V)
+			Bizarre Peroxide Tales (2003) (V)
+			Buttman's Bend Over Babes 6 (2003) (V)
+			Tia Bella: Extreme Close-up 3 (1998) (V)
+
+A.J. (III)		Misty Beethoven: The Musical! (2004) (V)  [Club Patron]  <21>
+			Not Far From Heaven 2 (2004) (V)
+
+A.J. (IV)		Wild Style (1982)  (as DJ AJ)  [Himself]
+			"And You Don't Stop: 30 Years of Hip-Hop" (2004) (mini)  (as DJ AJ)  [Himself]
+
+A.J. (V)		Leather Bears at Play (1997) (V)  <7>
+
+A.L., Narayana		Santanam (1955)  <17>
+
+A.M., Raja		Pakka Inti Ammayi (1953)  <4>
+
+A.N.T.			Sad Clown Bad Dub 4 (2003) (V)  [Ant (Himself)]
+
+A.P., Kapoor		Bhedi Trishul (1927)
+
+A.R., Krishna		Anugraham (1978)  <7>
+			Mahaveera (1988)
+			Mit Jayenge Mitane Wale (1977)
+			Oka Oori Katha (1977)
+
+A.R.S.			Bombay (1995)  <20>
+
+A.S., Alwi		Cinta segi tiga (1983)
+			Melody cinta (1982)
+			"Rumah masa depan" (1984)  [Pak Lurah]
+
+A.S., Giri		Sumangali (1940)  [Sathyam]  <2>
+
+A.V. Jr., Subba Rao	Sri Venkateswara Mahatmyam (1960)  [Brahma]  <15>
+
+A.V., Subba Rao		Chenchu Lakshmi (1958/I)  <10>
+			Jayabheri (1959)  <17>
+			Madalasa (1948)  <3>
+			Mangalya Balam (1958)  <12>
+			Mohini Bhasmasura (1938)  <3>
+			Palletoori Pilla (1950)  [Kampanna Dora]  <4>
+			Peddamanushulu (1954)  <6>
+			Sarangadhara (1957)  <12>
+			Sri Seetha Rama Kalyanam (1961)  <12>
+			Sri Venkateswara Mahatmyam (1960)  [Akasa Raju]  <5>
+			Vara Vikrayam (1939)  [Judge]  <12>
+			Vindhyarani (1948)  <7>
+
+A.X.L.			Claudine (2002) (V)  (as AXL)  <12>
+
+Aa, Brynjar		Adjø solidaritet (1985)  [Pønker]  <40>
+
+Aabeel			Czeski Friends (2004) (V)
+
+Aabel, Andreas		Bør Børson Jr. (1938)  [O.G. Hansen]  <9>
+			Jeppe på bjerget (1933)  [En skomakerlærling]
+			Kampen om tungtvannet (1948)  <8>
+			Prinsessen som ingen kunne målbinde (1932)  [Espen Askeladd]  <3>
+			Spøkelse forelsker seg, Et (1946)  [Et spøkelse]  <6>
+
+Aabel, Hauk (I)		Alexander den store (1917)  [Alexander Nyberg]
+			Du har lovet mig en kone! (1935)  [Professoren]  <6>
+			Glad gutt, En (1932)  [Ola Nordistua]  <1>
+			Jeppe på bjerget (1933)  [Jeppe]  <1>
+			Morderen uten ansikt (1936)
+			Store barnedåpen, Den (1931)  [Evensen, kirketjener]  <5>
+			Troll-Elgen (1927)  [Piper, direktør]  <9>
+			Ungen (1938)  [Krestoffer]  <8>
+			Valfångare (1939)  [Jensen Sr.]  <4>
+
+Aabel, Per (I)		Brudebuketten (1953)  [Høyland jr.]  <3>
+			Cafajestes, Os (1962)
+			Farlige leken, Den (1942)  [Fredrik Holm, doktor]
+			Forøvrig medvirker J. Holst-Jensen (1956)  (archive footage)
+			Herre med bart, En (1942)  [Ole Grong, advokat]  <1>
+			Kjære Maren (1976)  [Doktor]
+			Kjærlighet og vennskap (1941)  [Anton Schack]  <3>
+			Ombyte förnöjer (1939)  [Gregor Ivanow]  <2>
+			Portrettet (1954)  [Per Haug, provisor]  <1>
+			Slik kan det gjøres. Husmorfilmen 1954 (1954)  [Himself]  <1>
+			Spøkelse forelsker seg, Et (1946)  <1>
+			Tre önskningar (1960)  [Alexander Hassler]  <5>
+			Uncertain Glory (1944)  (uncredited)
+
+Aabentoft, Palle	Mørkeræd (1998)  [Aske]  <5>
+
+Aaberg, Dennis		Big Wednesday (1978)  [Slick]  <14>
+
+Aaberg, Linus (I)	Chicken in the Case, The (1921)  [Maj. Whitman]  <6>
+			Jamaica Run (1953)  [Human]
+			President's Lady, The (1953)  (uncredited)  [Uncle Alfred]
+
+Aaberg, Linus (II)	Kristin Lavransdatter (1995)
+			"Första kärleken" (1992) (mini)  [Daniel]
+
+Aaby, Kristian		Søndagsengler (1996)  [Stian]
+
+Aabye, Olaf		Olsen Banden Junior (2001)  [Tekniker]
+
+Aadil			Gandhi (1982)  [Policeman at Chauri Chaura]  <104>
+
+Aadland, Tørres		Omringet (1960)  <22>
+			Shetlandsgjengen (1954)
+
+Aadli, Argo		Malev (2005)  [Leholas]  <3>
+			Nimed marmortahvlil (2002)  [Konsap]  <10>
+			Yantarnye krylya (2003)
+			"Buratino tegutseb jälle" (2003)
+			"Kodu keset linna" (2003)  [Marcus (2003)]
+
+Aaen, Frank		X05: Afslutningsdebat (2005) (TV)  [Himself - Enhedslisten]  <11>
+			X05: Den første dyst (2005) (TV)  [Himself - Enhedslisten]  <10>
+
+Aaeng, Per		Heksenetter (1954)  [Ung mann hos teatersjefen]  <21>
+
+Aafaq			Chalte Chalte (2003)  [Mechanic]  <16>
+
+Aagaard Østvig Jr., Karl	Unge viljer (1943)
+
+Aagaard, Carl Powl	Powls i (k)nibe - koncertgyseren 'Flaskernes nat', The (2003) (V)  [Himself - Singer/Musician (guitarist)]
+
+-----------------------------------------------------------------------------

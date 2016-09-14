@@ -1,0 +1,81 @@
+VERTICES
+1 "Remus" Town
+2 "Six Lakes" Town
+3 "Lakeview" Town
+4 "Route 46/Route 66" Junction
+5 "Exit 120" Exit
+6  "St Louis Exit" Exit
+7 "Route 46/Route 55" Junction
+8 "Stanton" Town
+9 "Route 57/Route 66" Junction
+10 "Ionia" Town
+11 "Exit 67" Exit
+12 "St Johns" Town
+13 "St Johns Exit A" Exit
+14 "St Johns Exit B" Exit
+15 "Exit 87" Exit
+16 "Exit 89" Exit
+17 "I-69/I-96 Junction" Junction
+18 "Exit 39" Exit
+19 "Lowell" Town
+20 "Exit 52" Exit
+21 "Woodbury" Town
+22 "Grand Ledge" Town
+23 "Exit 31" Exit
+24 "Grand Rapids" City
+25 "Exit 101" Exit
+26 "Exit 105" Exit
+27 "Owosso" City
+28 "Greenville" Town
+29 "Exit 93" Exit
+30 "Lansing" City
+31 "Saginaw/Oakland Exit" Exit
+32 "Exit 95" Exit
+33 "Exit 7" Exit
+34 "I-496/US 127" Junction
+EDGES
+0 1 2 "Route 66" 12.5 50
+1 2 4 "Route 46" 4 40
+2 2 3 "Route 46" 6 50
+3 3 5 "Route 46" 12 50
+4 4 6 "Route 46" 22 50
+5 6 7 "Route 46" 27 50
+6 4 8 "Route 66" 7.8 45
+7 8 9 "Route 66" 8.2 45
+8 9 10 "Route 66" 14 50
+9 10 11 "Route 66" 8 50
+10 10 12 "Route 21" 28 50
+11 12 13 "Route 21" 1 30
+12 12 14 "Route 21" 3 45
+13 12 15 "Old 27" 12 50
+14 15 16 "I-69" 2 70
+15 14 16 "US-27" 12 70
+16 15 17 "I-69" 8 70
+17 17 11 "I-96" 22 70
+18 11 20 "I-96" 15 70
+19 20 18 "I-96" 13 70
+20 18 19 "Route 21" 13 50
+21 19 10 "Route 21" 15.5 50
+22 11 21 "Route 66" 10 50
+23 21 20 "Route 50" 22 50
+24 22 21 "Route 43" 31 50
+25 23 24 "US 131" 3 55
+26 23 25 "US 131" 11 65
+27 25 5 "US 131" 19 70
+28 26 27 "Route 52" 12 50
+29 27 13 "Route 21" 18 50
+30 16 26 "I-69" 16 70
+31 9 28 "Route 57" 9 50
+32 28 25 "Route 57" 15 50
+33 3 28 "Route 91" 18 45
+34 22 29 "Route 43" 10 50
+35 29 30 "Route 43" 5.5 45
+36 30 15 "Old 27" 7.2 45
+37 30 31 "Route 43" 2.2 45
+38 31 16 "US 127" 7.2 55
+39 32 33 "I-496" 7 65
+40 33 34 "I-496" 7 55
+41 31 34 "US 127" 1.1 55
+42 32 29 "I-69/I-96" 2 70
+43 19 20 "Route 50" 5 40
+44 18 23 "I-96" 8 70
